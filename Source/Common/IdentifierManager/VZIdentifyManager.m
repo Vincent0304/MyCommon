@@ -12,7 +12,6 @@
 
 NSString * const kVZIdentifyAppID = @"kVZIdentifyAppID";
 NSString * const kVZIdentifyInAppPurchases = @"kVZIdentifyInAppPurchases";
-NSString * const kVZIdentifyCommdities = @"kVZIdentifyCommdities";
 NSString * const kVZIdentifyLeaderboards = @"kVZIdentifyLeaderboards";
 NSString * const kVZIdentifyArchievements = @"kVZIdentifyArchievements";
 

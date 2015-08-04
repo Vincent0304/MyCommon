@@ -596,7 +596,6 @@ VZ_SYNTHESIZE_SINGLETON_FOR_CLASS(VZBannerManager)
     [NSArray arrayWithObjects:
      // TODO: Add your device/simulator test identifiers here. They are
      // printed to the console when the app is launched.
-     
      nil];
     return request;
 }

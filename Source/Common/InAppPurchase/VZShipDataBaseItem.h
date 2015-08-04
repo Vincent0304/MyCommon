@@ -44,6 +44,7 @@ extern NSString * const kVZShipIdentifier_Friendship;
 @property(nonatomic, assign)float price;
 
 +(VZShipDataBaseItem*)item;
++(NSArray *)defaultShipInfo;
 +(NSString*)shipImageNameWithIdentifer:(NSString*)identifer;
 +(NSString*)shipNameWithIdentifer:(NSString*)identifer;
 +(NSString*)shipDetailWithIdentifer:(NSString*)identifer;

@@ -41,6 +41,10 @@ NSString * const kVZShipIdentifier_EastGold             = @"pirate.east_gold";
 NSString * const kVZShipIdentifier_Swan                 = @"pirate.swan";
 NSString * const kVZShipIdentifier_Friendship           = @"pirate.friendship";
 
+
+
+
+
 @implementation VZShipDataBaseItem
 
 
@@ -48,6 +52,96 @@ NSString * const kVZShipIdentifier_Friendship           = @"pirate.friendship";
 +(VZShipDataBaseItem *)item
 {
     return [[self alloc] init];
+}
+
++(NSArray *)defaultShipInfo
+{
+    NSMutableArray* array = [NSMutableArray arrayWithCapacity:12];
+    
+    NSMutableDictionary* smallBoat = [NSMutableDictionary dictionaryWithCapacity:3];
+    [smallBoat setObject:[NSNumber numberWithInt:3] forKey:@"DefaultState"];
+    [smallBoat setObject:[NSNumber numberWithFloat:100] forKey:@"DefaultPrice"];
+    [smallBoat setObject:kVZShipIdentifier_SmallBoat forKey:@"Identifer"];
+    [array addObject:smallBoat];
+    
+    
+    NSMutableDictionary* mediumBoat = [NSMutableDictionary dictionaryWithCapacity:3];
+    [mediumBoat setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [mediumBoat setObject:[NSNumber numberWithFloat:200] forKey:@"DefaultPrice"];
+    [mediumBoat setObject:kVZShipIdentifier_MediumBoat forKey:@"Identifer"];
+    [array addObject:mediumBoat];
+    
+    
+    NSMutableDictionary* interceptor = [NSMutableDictionary dictionaryWithCapacity:3];
+    [interceptor setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [interceptor setObject:[NSNumber numberWithFloat:300] forKey:@"DefaultPrice"];
+    [interceptor setObject:kVZShipIdentifier_Interceptor forKey:@"Identifer"];
+    [array addObject:interceptor];
+    
+    
+    NSMutableDictionary* largeBoat = [NSMutableDictionary dictionaryWithCapacity:3];
+    [largeBoat setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [largeBoat setObject:[NSNumber numberWithFloat:400] forKey:@"DefaultPrice"];
+    [largeBoat setObject:kVZShipIdentifier_LargeBoat forKey:@"Identifer"];
+    [array addObject:largeBoat];
+    
+    
+    NSMutableDictionary* dreadnought = [NSMutableDictionary dictionaryWithCapacity:3];
+    [dreadnought setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [dreadnought setObject:[NSNumber numberWithFloat:500] forKey:@"DefaultPrice"];
+    [dreadnought setObject:kVZShipIdentifier_Dreadnought forKey:@"Identifer"];
+    [array addObject:dreadnought];
+    
+    
+    NSMutableDictionary* blackPearl = [NSMutableDictionary dictionaryWithCapacity:3];
+    [blackPearl setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [blackPearl setObject:[NSNumber numberWithFloat:600] forKey:@"DefaultPrice"];
+    [blackPearl setObject:kVZShipIdentifier_BlakcPearl forKey:@"Identifer"];
+    [array addObject:blackPearl];
+    
+    
+    NSMutableDictionary* queenAnnesRevenge = [NSMutableDictionary dictionaryWithCapacity:3];
+    [queenAnnesRevenge setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [queenAnnesRevenge setObject:[NSNumber numberWithFloat:700] forKey:@"DefaultPrice"];
+    [queenAnnesRevenge setObject:kVZShipIdentifier_QueenAnnesRevenge forKey:@"Identifer"];
+    [array addObject:queenAnnesRevenge];
+    
+    
+    NSMutableDictionary* flyingDutchman = [NSMutableDictionary dictionaryWithCapacity:3];
+    [flyingDutchman setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [flyingDutchman setObject:[NSNumber numberWithFloat:800] forKey:@"DefaultPrice"];
+    [flyingDutchman setObject:kVZShipIdentifier_FlyingDutchman forKey:@"Identifer"];
+    [array addObject:flyingDutchman];
+    
+    
+    NSMutableDictionary* noahsArk = [NSMutableDictionary dictionaryWithCapacity:3];
+    [noahsArk setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [noahsArk setObject:[NSNumber numberWithFloat:900] forKey:@"DefaultPrice"];
+    [noahsArk setObject:kVZShipIdentifier_NoahsArk forKey:@"Identifer"];
+    [array addObject:noahsArk];
+    
+    
+    NSMutableDictionary* eastGold = [NSMutableDictionary dictionaryWithCapacity:3];
+    [eastGold setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [eastGold setObject:[NSNumber numberWithFloat:1000] forKey:@"DefaultPrice"];
+    [eastGold setObject:kVZShipIdentifier_EastGold forKey:@"Identifer"];
+    [array addObject:eastGold];
+    
+    
+    NSMutableDictionary* swan = [NSMutableDictionary dictionaryWithCapacity:3];
+    [swan setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [swan setObject:[NSNumber numberWithFloat:1100] forKey:@"DefaultPrice"];
+    [swan setObject:kVZShipIdentifier_Swan forKey:@"Identifer"];
+    [array addObject:swan];
+    
+    
+    NSMutableDictionary* friendship = [NSMutableDictionary dictionaryWithCapacity:3];
+    [friendship setObject:[NSNumber numberWithInt:1] forKey:@"DefaultState"];
+    [friendship setObject:[NSNumber numberWithFloat:1200] forKey:@"DefaultPrice"];
+    [friendship setObject:kVZShipIdentifier_Friendship forKey:@"Identifer"];
+    [array addObject:friendship];
+    
+    return array;
 }
 
 +(NSString *)shipImageNameWithIdentifer:(NSString *)identifer

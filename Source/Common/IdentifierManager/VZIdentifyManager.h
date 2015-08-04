@@ -11,7 +11,6 @@
 
 extern NSString * const kVZIdentifyAppID;
 extern NSString * const kVZIdentifyInAppPurchases;
-extern NSString * const kVZIdentifyCommdities;
 extern NSString * const kVZIdentifyLeaderboards;
 extern NSString * const kVZIdentifyArchievements;
 

@@ -7,97 +7,97 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5839FDF11B710AA80000CB69 /* VZBloomForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD001B710AA80000CB69 /* VZBloomForSprite.m */; };
-		5839FDF21B710AA80000CB69 /* VZBrightForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD021B710AA80000CB69 /* VZBrightForSprite.m */; };
-		5839FDF31B710AA80000CB69 /* VZCircleMove.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD041B710AA80000CB69 /* VZCircleMove.m */; };
-		5839FDF41B710AA80000CB69 /* VZCircleMoveForParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD061B710AA80000CB69 /* VZCircleMoveForParticle.m */; };
-		5839FDF51B710AA80000CB69 /* VZLoopTextureForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD081B710AA80000CB69 /* VZLoopTextureForSprite.m */; };
-		5839FDF61B710AA80000CB69 /* VZMoveByForParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD0A1B710AA80000CB69 /* VZMoveByForParticle.m */; };
-		5839FDF71B710AA80000CB69 /* VZRotate3D.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD0C1B710AA80000CB69 /* VZRotate3D.m */; };
-		5839FDF81B710AA80000CB69 /* VZScrollNumberForLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD0E1B710AA80000CB69 /* VZScrollNumberForLabel.m */; };
-		5839FDF91B710AA80000CB69 /* VZSpreadForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD101B710AA80000CB69 /* VZSpreadForSprite.m */; };
-		5839FDFA1B710AA80000CB69 /* VZBannerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD141B710AA80000CB69 /* VZBannerManager.m */; };
-		5839FDFB1B710AA80000CB69 /* AdColony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839FD171B710AA80000CB69 /* AdColony.framework */; };
-		5839FDFC1B710AA80000CB69 /* Chartboost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839FD191B710AA80000CB69 /* Chartboost.framework */; };
-		5839FDFD1B710AA80000CB69 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839FD1B1B710AA80000CB69 /* GoogleMobileAds.framework */; };
-		5839FDFE1B710AA80000CB69 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 5839FD201B710AA80000CB69 /* README.txt */; };
-		5839FDFF1B710AA80000CB69 /* VZInterstitialAdcolony.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD221B710AA80000CB69 /* VZInterstitialAdcolony.m */; };
-		5839FE001B710AA80000CB69 /* VZInterstitialAdmob.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD241B710AA80000CB69 /* VZInterstitialAdmob.m */; };
-		5839FE011B710AA80000CB69 /* VZInterstitialApple.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD261B710AA80000CB69 /* VZInterstitialApple.m */; };
-		5839FE021B710AA80000CB69 /* VZInterstitialBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD281B710AA80000CB69 /* VZInterstitialBase.m */; };
-		5839FE031B710AA80000CB69 /* VZInterstitialChartboost.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD2A1B710AA80000CB69 /* VZInterstitialChartboost.m */; };
-		5839FE041B710AA80000CB69 /* VZInterstitialManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD2C1B710AA80000CB69 /* VZInterstitialManager.m */; };
-		5839FE051B710AA80000CB69 /* VZArchievementBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD2F1B710AA80000CB69 /* VZArchievementBase.m */; };
-		5839FE061B710AA80000CB69 /* VZArchievementManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD311B710AA80000CB69 /* VZArchievementManager.m */; };
-		5839FE071B710AA80000CB69 /* VZArchievementStar.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD331B710AA80000CB69 /* VZArchievementStar.m */; };
-		5839FE081B710AA80000CB69 /* VZAudioManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD361B710AA80000CB69 /* VZAudioManager.m */; };
-		5839FE091B710AA80000CB69 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD3B1B710AA80000CB69 /* MBProgressHUD.m */; };
-		5839FE0A1B710AA80000CB69 /* VZButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD3D1B710AA80000CB69 /* VZButton.m */; };
-		5839FE0B1B710AA80000CB69 /* VZDrawerMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD3F1B710AA80000CB69 /* VZDrawerMenu.m */; };
-		5839FE0C1B710AA80000CB69 /* VZMusicSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD411B710AA80000CB69 /* VZMusicSwitch.m */; };
-		5839FE0D1B710AA80000CB69 /* VZPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD431B710AA80000CB69 /* VZPageControl.m */; };
-		5839FE0E1B710AA80000CB69 /* VZProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD451B710AA80000CB69 /* VZProgress.m */; };
-		5839FE0F1B710AA80000CB69 /* VZSoundSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD471B710AA80000CB69 /* VZSoundSwitch.m */; };
-		5839FE101B710AA80000CB69 /* VZSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD491B710AA80000CB69 /* VZSwitch.m */; };
-		5839FE111B710AA80000CB69 /* VZCrossFadeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD4C1B710AA80000CB69 /* VZCrossFadeView.m */; };
-		5839FE121B710AA80000CB69 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD4F1B710AA80000CB69 /* GTMBase64.m */; };
-		5839FE131B710AA80000CB69 /* NSData+AES.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD521B710AA80000CB69 /* NSData+AES.m */; };
-		5839FE141B710AA80000CB69 /* NSString+MD5.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD541B710AA80000CB69 /* NSString+MD5.m */; };
-		5839FE151B710AA80000CB69 /* SecurityUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD561B710AA80000CB69 /* SecurityUtil.m */; };
-		5839FE161B710AA80000CB69 /* Appirater.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD5A1B710AA80000CB69 /* Appirater.m */; };
-		5839FE171B710AA80000CB69 /* AppiraterLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5839FD5C1B710AA80000CB69 /* AppiraterLocalizable.strings */; };
-		5839FE181B710AA80000CB69 /* CCCropNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD7F1B710AA80000CB69 /* CCCropNode.m */; };
-		5839FE191B710AA80000CB69 /* CCDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD821B710AA80000CB69 /* CCDictionary.m */; };
-		5839FE1A1B710AA80000CB69 /* CCLayerSmoothLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD851B710AA80000CB69 /* CCLayerSmoothLine.m */; };
-		5839FE1B1B710AA80000CB69 /* CCNodeTag.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD881B710AA80000CB69 /* CCNodeTag.m */; };
-		5839FE1C1B710AA80000CB69 /* chase_johnson.json in Resources */ = {isa = PBXBuildFile; fileRef = 5839FD8B1B710AA80000CB69 /* chase_johnson.json */; };
-		5839FE1D1B710AA80000CB69 /* chase_johnson.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5839FD8C1B710AA80000CB69 /* chase_johnson.plist */; };
-		5839FE1E1B710AA80000CB69 /* chase_johnson.png in Resources */ = {isa = PBXBuildFile; fileRef = 5839FD8D1B710AA80000CB69 /* chase_johnson.png */; };
-		5839FE1F1B710AA80000CB69 /* CCSpineAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD8F1B710AA80000CB69 /* CCSpineAnimation.m */; };
-		5839FE201B710AA80000CB69 /* CCSpineAnimationControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD911B710AA80000CB69 /* CCSpineAnimationControl.m */; };
-		5839FE211B710AA80000CB69 /* CCSpineBone.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD931B710AA80000CB69 /* CCSpineBone.m */; };
-		5839FE221B710AA80000CB69 /* CCSpineCurve.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD951B710AA80000CB69 /* CCSpineCurve.m */; };
-		5839FE231B710AA80000CB69 /* CCSpineSample.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD971B710AA80000CB69 /* CCSpineSample.m */; };
-		5839FE241B710AA80000CB69 /* CCSpineSkeleton.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD991B710AA80000CB69 /* CCSpineSkeleton.m */; };
-		5839FE251B710AA80000CB69 /* CCSpineSkin.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD9B1B710AA80000CB69 /* CCSpineSkin.m */; };
-		5839FE261B710AA80000CB69 /* CCSpineSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD9D1B710AA80000CB69 /* CCSpineSprite.m */; };
-		5839FE271B710AA80000CB69 /* CCSpineTexture.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FD9F1B710AA80000CB69 /* CCSpineTexture.m */; };
-		5839FE281B710AA80000CB69 /* CCSpineTimeline.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDA11B710AA80000CB69 /* CCSpineTimeline.m */; };
-		5839FE291B710AA80000CB69 /* CCSpriteMultiTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDA41B710AA80000CB69 /* CCSpriteMultiTouch.m */; };
-		5839FE2A1B710AA80000CB69 /* CCTransformationNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDA71B710AA80000CB69 /* CCTransformationNode.m */; };
-		5839FE2B1B710AA80000CB69 /* icon_session.png in Resources */ = {isa = PBXBuildFile; fileRef = 5839FDAA1B710AA80000CB69 /* icon_session.png */; };
-		5839FE2C1B710AA80000CB69 /* icon_session@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5839FDAB1B710AA80000CB69 /* icon_session@2x.png */; };
-		5839FE2D1B710AA80000CB69 /* icon_timeline.png in Resources */ = {isa = PBXBuildFile; fileRef = 5839FDAC1B710AA80000CB69 /* icon_timeline.png */; };
-		5839FE2E1B710AA80000CB69 /* icon_timeline@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5839FDAD1B710AA80000CB69 /* icon_timeline@2x.png */; };
-		5839FE2F1B710AA80000CB69 /* libWeChatSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839FDAE1B710AA80000CB69 /* libWeChatSDK.a */; };
-		5839FE301B710AA80000CB69 /* WeixinActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDB21B710AA80000CB69 /* WeixinActivity.m */; };
-		5839FE311B710AA80000CB69 /* WeixinSessionActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDB41B710AA80000CB69 /* WeixinSessionActivity.m */; };
-		5839FE321B710AA80000CB69 /* WeixinTimelineActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDB61B710AA80000CB69 /* WeixinTimelineActivity.m */; };
-		5839FE331B710AA80000CB69 /* GameCenterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDB91B710AA80000CB69 /* GameCenterManager.m */; };
-		5839FE341B710AA80000CB69 /* VZGameCenterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDBB1B710AA80000CB69 /* VZGameCenterManager.m */; };
-		5839FE351B710AA80000CB69 /* IdentifyInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5839FDBD1B710AA80000CB69 /* IdentifyInfo.plist */; };
-		5839FE361B710AA80000CB69 /* VZIdentifyManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDBF1B710AA80000CB69 /* VZIdentifyManager.m */; };
-		5839FE371B710AA80000CB69 /* VZCommodityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDC21B710AA80000CB69 /* VZCommodityManager.m */; };
-		5839FE381B710AA80000CB69 /* VZConversItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDC41B710AA80000CB69 /* VZConversItem.m */; };
-		5839FE391B710AA80000CB69 /* VZInAppPurchaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDC61B710AA80000CB69 /* VZInAppPurchaseManager.m */; };
-		5839FE3A1B710AA80000CB69 /* VZPurchaseItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDC81B710AA80000CB69 /* VZPurchaseItem.m */; };
-		5839FE3B1B710AA80000CB69 /* VZShipDataBaseItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDCA1B710AA80000CB69 /* VZShipDataBaseItem.m */; };
-		5839FE3C1B710AA80000CB69 /* VZAlertLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDCD1B710AA80000CB69 /* VZAlertLayer.m */; };
-		5839FE3D1B710AA80000CB69 /* VZInterimLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDCF1B710AA80000CB69 /* VZInterimLayer.m */; };
-		5839FE3E1B710AA80000CB69 /* VZInterimNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDD11B710AA80000CB69 /* VZInterimNode.m */; };
-		5839FE3F1B710AA80000CB69 /* VZLayerWithXIB.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDD31B710AA80000CB69 /* VZLayerWithXIB.m */; };
-		5839FE401B710AA80000CB69 /* VZScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDD51B710AA80000CB69 /* VZScene.m */; };
-		5839FE411B710AA80000CB69 /* VZWheelItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDD71B710AA80000CB69 /* VZWheelItem.m */; };
-		5839FE421B710AA80000CB69 /* VZWheelLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDD91B710AA80000CB69 /* VZWheelLayer.m */; };
-		5839FE431B710AA80000CB69 /* VZLevelItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDDC1B710AA80000CB69 /* VZLevelItem.m */; };
-		5839FE441B710AA80000CB69 /* VZLevelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDDE1B710AA80000CB69 /* VZLevelManager.m */; };
-		5839FE451B710AA80000CB69 /* VZRateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDE11B710AA80000CB69 /* VZRateManager.m */; };
-		5839FE461B710AA80000CB69 /* VZShareManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDE31B710AA80000CB69 /* VZShareManager.m */; };
-		5839FE471B710AA80000CB69 /* VZShareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDE51B710AA80000CB69 /* VZShareViewController.m */; };
-		5839FE481B710AA80000CB69 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDE81B710AA80000CB69 /* Reachability.m */; };
-		5839FE491B710AA80000CB69 /* VZReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDEA1B710AA80000CB69 /* VZReachability.m */; };
-		5839FE4A1B710AA80000CB69 /* VZUserDefault.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDED1B710AA80000CB69 /* VZUserDefault.m */; };
-		5839FE4B1B710AA80000CB69 /* VZWheelView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839FDF01B710AA80000CB69 /* VZWheelView.m */; };
+		583907331B7128E10000CB69 /* VZBloomForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906421B7128E10000CB69 /* VZBloomForSprite.m */; };
+		583907341B7128E10000CB69 /* VZBrightForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906441B7128E10000CB69 /* VZBrightForSprite.m */; };
+		583907351B7128E10000CB69 /* VZCircleMove.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906461B7128E10000CB69 /* VZCircleMove.m */; };
+		583907361B7128E10000CB69 /* VZCircleMoveForParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906481B7128E10000CB69 /* VZCircleMoveForParticle.m */; };
+		583907371B7128E10000CB69 /* VZLoopTextureForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839064A1B7128E10000CB69 /* VZLoopTextureForSprite.m */; };
+		583907381B7128E10000CB69 /* VZMoveByForParticle.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839064C1B7128E10000CB69 /* VZMoveByForParticle.m */; };
+		583907391B7128E10000CB69 /* VZRotate3D.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839064E1B7128E10000CB69 /* VZRotate3D.m */; };
+		5839073A1B7128E10000CB69 /* VZScrollNumberForLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906501B7128E10000CB69 /* VZScrollNumberForLabel.m */; };
+		5839073B1B7128E10000CB69 /* VZSpreadForSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906521B7128E10000CB69 /* VZSpreadForSprite.m */; };
+		5839073C1B7128E10000CB69 /* VZBannerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906561B7128E10000CB69 /* VZBannerManager.m */; };
+		5839073D1B7128E10000CB69 /* AdColony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 583906591B7128E10000CB69 /* AdColony.framework */; };
+		5839073E1B7128E10000CB69 /* Chartboost.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839065B1B7128E10000CB69 /* Chartboost.framework */; };
+		5839073F1B7128E10000CB69 /* GoogleMobileAds.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839065D1B7128E10000CB69 /* GoogleMobileAds.framework */; };
+		583907401B7128E10000CB69 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 583906621B7128E10000CB69 /* README.txt */; };
+		583907411B7128E10000CB69 /* VZInterstitialAdcolony.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906641B7128E10000CB69 /* VZInterstitialAdcolony.m */; };
+		583907421B7128E10000CB69 /* VZInterstitialAdmob.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906661B7128E10000CB69 /* VZInterstitialAdmob.m */; };
+		583907431B7128E10000CB69 /* VZInterstitialApple.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906681B7128E10000CB69 /* VZInterstitialApple.m */; };
+		583907441B7128E10000CB69 /* VZInterstitialBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839066A1B7128E10000CB69 /* VZInterstitialBase.m */; };
+		583907451B7128E10000CB69 /* VZInterstitialChartboost.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839066C1B7128E10000CB69 /* VZInterstitialChartboost.m */; };
+		583907461B7128E10000CB69 /* VZInterstitialManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839066E1B7128E10000CB69 /* VZInterstitialManager.m */; };
+		583907471B7128E10000CB69 /* VZArchievementBase.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906711B7128E10000CB69 /* VZArchievementBase.m */; };
+		583907481B7128E10000CB69 /* VZArchievementManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906731B7128E10000CB69 /* VZArchievementManager.m */; };
+		583907491B7128E10000CB69 /* VZArchievementStar.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906751B7128E10000CB69 /* VZArchievementStar.m */; };
+		5839074A1B7128E10000CB69 /* VZAudioManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906781B7128E10000CB69 /* VZAudioManager.m */; };
+		5839074B1B7128E10000CB69 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839067D1B7128E10000CB69 /* MBProgressHUD.m */; };
+		5839074C1B7128E10000CB69 /* VZButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839067F1B7128E10000CB69 /* VZButton.m */; };
+		5839074D1B7128E10000CB69 /* VZDrawerMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906811B7128E10000CB69 /* VZDrawerMenu.m */; };
+		5839074E1B7128E10000CB69 /* VZMusicSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906831B7128E10000CB69 /* VZMusicSwitch.m */; };
+		5839074F1B7128E10000CB69 /* VZPageControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906851B7128E10000CB69 /* VZPageControl.m */; };
+		583907501B7128E10000CB69 /* VZProgress.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906871B7128E10000CB69 /* VZProgress.m */; };
+		583907511B7128E10000CB69 /* VZSoundSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906891B7128E10000CB69 /* VZSoundSwitch.m */; };
+		583907521B7128E10000CB69 /* VZSwitch.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839068B1B7128E10000CB69 /* VZSwitch.m */; };
+		583907531B7128E10000CB69 /* VZCrossFadeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839068E1B7128E10000CB69 /* VZCrossFadeView.m */; };
+		583907541B7128E10000CB69 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906911B7128E10000CB69 /* GTMBase64.m */; };
+		583907551B7128E10000CB69 /* NSData+AES.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906941B7128E10000CB69 /* NSData+AES.m */; };
+		583907561B7128E10000CB69 /* NSString+MD5.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906961B7128E10000CB69 /* NSString+MD5.m */; };
+		583907571B7128E10000CB69 /* SecurityUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906981B7128E10000CB69 /* SecurityUtil.m */; };
+		583907581B7128E10000CB69 /* Appirater.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839069C1B7128E10000CB69 /* Appirater.m */; };
+		583907591B7128E10000CB69 /* AppiraterLocalizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5839069E1B7128E10000CB69 /* AppiraterLocalizable.strings */; };
+		5839075A1B7128E10000CB69 /* CCCropNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906C11B7128E10000CB69 /* CCCropNode.m */; };
+		5839075B1B7128E10000CB69 /* CCDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906C41B7128E10000CB69 /* CCDictionary.m */; };
+		5839075C1B7128E10000CB69 /* CCLayerSmoothLine.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906C71B7128E10000CB69 /* CCLayerSmoothLine.m */; };
+		5839075D1B7128E10000CB69 /* CCNodeTag.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906CA1B7128E10000CB69 /* CCNodeTag.m */; };
+		5839075E1B7128E10000CB69 /* chase_johnson.json in Resources */ = {isa = PBXBuildFile; fileRef = 583906CD1B7128E10000CB69 /* chase_johnson.json */; };
+		5839075F1B7128E10000CB69 /* chase_johnson.plist in Resources */ = {isa = PBXBuildFile; fileRef = 583906CE1B7128E10000CB69 /* chase_johnson.plist */; };
+		583907601B7128E10000CB69 /* chase_johnson.png in Resources */ = {isa = PBXBuildFile; fileRef = 583906CF1B7128E10000CB69 /* chase_johnson.png */; };
+		583907611B7128E10000CB69 /* CCSpineAnimation.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906D11B7128E10000CB69 /* CCSpineAnimation.m */; };
+		583907621B7128E10000CB69 /* CCSpineAnimationControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906D31B7128E10000CB69 /* CCSpineAnimationControl.m */; };
+		583907631B7128E10000CB69 /* CCSpineBone.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906D51B7128E10000CB69 /* CCSpineBone.m */; };
+		583907641B7128E10000CB69 /* CCSpineCurve.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906D71B7128E10000CB69 /* CCSpineCurve.m */; };
+		583907651B7128E10000CB69 /* CCSpineSample.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906D91B7128E10000CB69 /* CCSpineSample.m */; };
+		583907661B7128E10000CB69 /* CCSpineSkeleton.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906DB1B7128E10000CB69 /* CCSpineSkeleton.m */; };
+		583907671B7128E10000CB69 /* CCSpineSkin.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906DD1B7128E10000CB69 /* CCSpineSkin.m */; };
+		583907681B7128E10000CB69 /* CCSpineSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906DF1B7128E10000CB69 /* CCSpineSprite.m */; };
+		583907691B7128E10000CB69 /* CCSpineTexture.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906E11B7128E10000CB69 /* CCSpineTexture.m */; };
+		5839076A1B7128E10000CB69 /* CCSpineTimeline.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906E31B7128E10000CB69 /* CCSpineTimeline.m */; };
+		5839076B1B7128E10000CB69 /* CCSpriteMultiTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906E61B7128E10000CB69 /* CCSpriteMultiTouch.m */; };
+		5839076C1B7128E10000CB69 /* CCTransformationNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906E91B7128E10000CB69 /* CCTransformationNode.m */; };
+		5839076D1B7128E10000CB69 /* icon_session.png in Resources */ = {isa = PBXBuildFile; fileRef = 583906EC1B7128E10000CB69 /* icon_session.png */; };
+		5839076E1B7128E10000CB69 /* icon_session@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 583906ED1B7128E10000CB69 /* icon_session@2x.png */; };
+		5839076F1B7128E10000CB69 /* icon_timeline.png in Resources */ = {isa = PBXBuildFile; fileRef = 583906EE1B7128E10000CB69 /* icon_timeline.png */; };
+		583907701B7128E10000CB69 /* icon_timeline@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 583906EF1B7128E10000CB69 /* icon_timeline@2x.png */; };
+		583907711B7128E10000CB69 /* libWeChatSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 583906F01B7128E10000CB69 /* libWeChatSDK.a */; };
+		583907721B7128E10000CB69 /* WeixinActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906F41B7128E10000CB69 /* WeixinActivity.m */; };
+		583907731B7128E10000CB69 /* WeixinSessionActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906F61B7128E10000CB69 /* WeixinSessionActivity.m */; };
+		583907741B7128E10000CB69 /* WeixinTimelineActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906F81B7128E10000CB69 /* WeixinTimelineActivity.m */; };
+		583907751B7128E10000CB69 /* GameCenterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906FB1B7128E10000CB69 /* GameCenterManager.m */; };
+		583907761B7128E10000CB69 /* VZGameCenterManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583906FD1B7128E10000CB69 /* VZGameCenterManager.m */; };
+		583907771B7128E10000CB69 /* IdentifyInfo.plist in Resources */ = {isa = PBXBuildFile; fileRef = 583906FF1B7128E10000CB69 /* IdentifyInfo.plist */; };
+		583907781B7128E10000CB69 /* VZIdentifyManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907011B7128E10000CB69 /* VZIdentifyManager.m */; };
+		583907791B7128E10000CB69 /* VZCommodityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907041B7128E10000CB69 /* VZCommodityManager.m */; };
+		5839077A1B7128E10000CB69 /* VZConversItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907061B7128E10000CB69 /* VZConversItem.m */; };
+		5839077B1B7128E10000CB69 /* VZInAppPurchaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907081B7128E10000CB69 /* VZInAppPurchaseManager.m */; };
+		5839077C1B7128E10000CB69 /* VZPurchaseItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839070A1B7128E10000CB69 /* VZPurchaseItem.m */; };
+		5839077D1B7128E10000CB69 /* VZShipDataBaseItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839070C1B7128E10000CB69 /* VZShipDataBaseItem.m */; };
+		5839077E1B7128E10000CB69 /* VZAlertLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839070F1B7128E10000CB69 /* VZAlertLayer.m */; };
+		5839077F1B7128E10000CB69 /* VZInterimLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907111B7128E10000CB69 /* VZInterimLayer.m */; };
+		583907801B7128E10000CB69 /* VZInterimNode.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907131B7128E10000CB69 /* VZInterimNode.m */; };
+		583907811B7128E10000CB69 /* VZLayerWithXIB.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907151B7128E10000CB69 /* VZLayerWithXIB.m */; };
+		583907821B7128E10000CB69 /* VZScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907171B7128E10000CB69 /* VZScene.m */; };
+		583907831B7128E10000CB69 /* VZWheelItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907191B7128E10000CB69 /* VZWheelItem.m */; };
+		583907841B7128E10000CB69 /* VZWheelLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839071B1B7128E10000CB69 /* VZWheelLayer.m */; };
+		583907851B7128E10000CB69 /* VZLevelItem.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839071E1B7128E10000CB69 /* VZLevelItem.m */; };
+		583907861B7128E10000CB69 /* VZLevelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907201B7128E10000CB69 /* VZLevelManager.m */; };
+		583907871B7128E10000CB69 /* VZRateManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907231B7128E10000CB69 /* VZRateManager.m */; };
+		583907881B7128E10000CB69 /* VZShareManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907251B7128E10000CB69 /* VZShareManager.m */; };
+		583907891B7128E10000CB69 /* VZShareViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907271B7128E10000CB69 /* VZShareViewController.m */; };
+		5839078A1B7128E10000CB69 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839072A1B7128E10000CB69 /* Reachability.m */; };
+		5839078B1B7128E10000CB69 /* VZReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839072C1B7128E10000CB69 /* VZReachability.m */; };
+		5839078C1B7128E10000CB69 /* VZUserDefault.m in Sources */ = {isa = PBXBuildFile; fileRef = 5839072F1B7128E10000CB69 /* VZUserDefault.m */; };
+		5839078D1B7128E10000CB69 /* VZWheelView.m in Sources */ = {isa = PBXBuildFile; fileRef = 583907321B7128E10000CB69 /* VZWheelView.m */; };
 		5839FE511B710B4A0000CB69 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839FE501B710B4A0000CB69 /* Social.framework */; };
 		5839FE531B710B500000CB69 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5839FE521B710B500000CB69 /* WebKit.framework */; };
 		5B121030197484FA004C1E1D /* CommonActivity.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B12102F197484FA004C1E1D /* CommonActivity.m */; };
@@ -241,213 +241,213 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5839FCFF1B710AA80000CB69 /* VZBloomForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZBloomForSprite.h; sourceTree = "<group>"; };
-		5839FD001B710AA80000CB69 /* VZBloomForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZBloomForSprite.m; sourceTree = "<group>"; };
-		5839FD011B710AA80000CB69 /* VZBrightForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZBrightForSprite.h; sourceTree = "<group>"; };
-		5839FD021B710AA80000CB69 /* VZBrightForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZBrightForSprite.m; sourceTree = "<group>"; };
-		5839FD031B710AA80000CB69 /* VZCircleMove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCircleMove.h; sourceTree = "<group>"; };
-		5839FD041B710AA80000CB69 /* VZCircleMove.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCircleMove.m; sourceTree = "<group>"; };
-		5839FD051B710AA80000CB69 /* VZCircleMoveForParticle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCircleMoveForParticle.h; sourceTree = "<group>"; };
-		5839FD061B710AA80000CB69 /* VZCircleMoveForParticle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCircleMoveForParticle.m; sourceTree = "<group>"; };
-		5839FD071B710AA80000CB69 /* VZLoopTextureForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLoopTextureForSprite.h; sourceTree = "<group>"; };
-		5839FD081B710AA80000CB69 /* VZLoopTextureForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLoopTextureForSprite.m; sourceTree = "<group>"; };
-		5839FD091B710AA80000CB69 /* VZMoveByForParticle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZMoveByForParticle.h; sourceTree = "<group>"; };
-		5839FD0A1B710AA80000CB69 /* VZMoveByForParticle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZMoveByForParticle.m; sourceTree = "<group>"; };
-		5839FD0B1B710AA80000CB69 /* VZRotate3D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZRotate3D.h; sourceTree = "<group>"; };
-		5839FD0C1B710AA80000CB69 /* VZRotate3D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZRotate3D.m; sourceTree = "<group>"; };
-		5839FD0D1B710AA80000CB69 /* VZScrollNumberForLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZScrollNumberForLabel.h; sourceTree = "<group>"; };
-		5839FD0E1B710AA80000CB69 /* VZScrollNumberForLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZScrollNumberForLabel.m; sourceTree = "<group>"; };
-		5839FD0F1B710AA80000CB69 /* VZSpreadForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZSpreadForSprite.h; sourceTree = "<group>"; };
-		5839FD101B710AA80000CB69 /* VZSpreadForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZSpreadForSprite.m; sourceTree = "<group>"; };
-		5839FD131B710AA80000CB69 /* VZBannerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZBannerManager.h; sourceTree = "<group>"; };
-		5839FD141B710AA80000CB69 /* VZBannerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZBannerManager.m; sourceTree = "<group>"; };
-		5839FD171B710AA80000CB69 /* AdColony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AdColony.framework; sourceTree = "<group>"; };
-		5839FD191B710AA80000CB69 /* Chartboost.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Chartboost.framework; sourceTree = "<group>"; };
-		5839FD1B1B710AA80000CB69 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
-		5839FD1D1B710AA80000CB69 /* GADMAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADMAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
-		5839FD1E1B710AA80000CB69 /* GADMAdNetworkConnectorProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADMAdNetworkConnectorProtocol.h; sourceTree = "<group>"; };
-		5839FD1F1B710AA80000CB69 /* GADMEnums.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADMEnums.h; sourceTree = "<group>"; };
-		5839FD201B710AA80000CB69 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
-		5839FD211B710AA80000CB69 /* VZInterstitialAdcolony.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialAdcolony.h; sourceTree = "<group>"; };
-		5839FD221B710AA80000CB69 /* VZInterstitialAdcolony.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialAdcolony.m; sourceTree = "<group>"; };
-		5839FD231B710AA80000CB69 /* VZInterstitialAdmob.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialAdmob.h; sourceTree = "<group>"; };
-		5839FD241B710AA80000CB69 /* VZInterstitialAdmob.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialAdmob.m; sourceTree = "<group>"; };
-		5839FD251B710AA80000CB69 /* VZInterstitialApple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialApple.h; sourceTree = "<group>"; };
-		5839FD261B710AA80000CB69 /* VZInterstitialApple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialApple.m; sourceTree = "<group>"; };
-		5839FD271B710AA80000CB69 /* VZInterstitialBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialBase.h; sourceTree = "<group>"; };
-		5839FD281B710AA80000CB69 /* VZInterstitialBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialBase.m; sourceTree = "<group>"; };
-		5839FD291B710AA80000CB69 /* VZInterstitialChartboost.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialChartboost.h; sourceTree = "<group>"; };
-		5839FD2A1B710AA80000CB69 /* VZInterstitialChartboost.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialChartboost.m; sourceTree = "<group>"; };
-		5839FD2B1B710AA80000CB69 /* VZInterstitialManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialManager.h; sourceTree = "<group>"; };
-		5839FD2C1B710AA80000CB69 /* VZInterstitialManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialManager.m; sourceTree = "<group>"; };
-		5839FD2E1B710AA80000CB69 /* VZArchievementBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZArchievementBase.h; sourceTree = "<group>"; };
-		5839FD2F1B710AA80000CB69 /* VZArchievementBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZArchievementBase.m; sourceTree = "<group>"; };
-		5839FD301B710AA80000CB69 /* VZArchievementManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZArchievementManager.h; sourceTree = "<group>"; };
-		5839FD311B710AA80000CB69 /* VZArchievementManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZArchievementManager.m; sourceTree = "<group>"; };
-		5839FD321B710AA80000CB69 /* VZArchievementStar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZArchievementStar.h; sourceTree = "<group>"; };
-		5839FD331B710AA80000CB69 /* VZArchievementStar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZArchievementStar.m; sourceTree = "<group>"; };
-		5839FD351B710AA80000CB69 /* VZAudioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZAudioManager.h; sourceTree = "<group>"; };
-		5839FD361B710AA80000CB69 /* VZAudioManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZAudioManager.m; sourceTree = "<group>"; };
-		5839FD381B710AA80000CB69 /* VZCommonDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCommonDefine.h; sourceTree = "<group>"; };
-		5839FD3A1B710AA80000CB69 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
-		5839FD3B1B710AA80000CB69 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
-		5839FD3C1B710AA80000CB69 /* VZButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZButton.h; sourceTree = "<group>"; };
-		5839FD3D1B710AA80000CB69 /* VZButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZButton.m; sourceTree = "<group>"; };
-		5839FD3E1B710AA80000CB69 /* VZDrawerMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZDrawerMenu.h; sourceTree = "<group>"; };
-		5839FD3F1B710AA80000CB69 /* VZDrawerMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZDrawerMenu.m; sourceTree = "<group>"; };
-		5839FD401B710AA80000CB69 /* VZMusicSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZMusicSwitch.h; sourceTree = "<group>"; };
-		5839FD411B710AA80000CB69 /* VZMusicSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZMusicSwitch.m; sourceTree = "<group>"; };
-		5839FD421B710AA80000CB69 /* VZPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZPageControl.h; sourceTree = "<group>"; };
-		5839FD431B710AA80000CB69 /* VZPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZPageControl.m; sourceTree = "<group>"; };
-		5839FD441B710AA80000CB69 /* VZProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZProgress.h; sourceTree = "<group>"; };
-		5839FD451B710AA80000CB69 /* VZProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZProgress.m; sourceTree = "<group>"; };
-		5839FD461B710AA80000CB69 /* VZSoundSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZSoundSwitch.h; sourceTree = "<group>"; };
-		5839FD471B710AA80000CB69 /* VZSoundSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZSoundSwitch.m; sourceTree = "<group>"; };
-		5839FD481B710AA80000CB69 /* VZSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZSwitch.h; sourceTree = "<group>"; };
-		5839FD491B710AA80000CB69 /* VZSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZSwitch.m; sourceTree = "<group>"; };
-		5839FD4B1B710AA80000CB69 /* VZCrossFadeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCrossFadeView.h; sourceTree = "<group>"; };
-		5839FD4C1B710AA80000CB69 /* VZCrossFadeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCrossFadeView.m; sourceTree = "<group>"; };
-		5839FD4E1B710AA80000CB69 /* GTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMBase64.h; sourceTree = "<group>"; };
-		5839FD4F1B710AA80000CB69 /* GTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTMBase64.m; sourceTree = "<group>"; };
-		5839FD501B710AA80000CB69 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
-		5839FD511B710AA80000CB69 /* NSData+AES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+AES.h"; sourceTree = "<group>"; };
-		5839FD521B710AA80000CB69 /* NSData+AES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+AES.m"; sourceTree = "<group>"; };
-		5839FD531B710AA80000CB69 /* NSString+MD5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MD5.h"; sourceTree = "<group>"; };
-		5839FD541B710AA80000CB69 /* NSString+MD5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MD5.m"; sourceTree = "<group>"; };
-		5839FD551B710AA80000CB69 /* SecurityUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecurityUtil.h; sourceTree = "<group>"; };
-		5839FD561B710AA80000CB69 /* SecurityUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecurityUtil.m; sourceTree = "<group>"; };
-		5839FD591B710AA80000CB69 /* Appirater.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Appirater.h; sourceTree = "<group>"; };
-		5839FD5A1B710AA80000CB69 /* Appirater.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Appirater.m; sourceTree = "<group>"; };
-		5839FD5B1B710AA80000CB69 /* AppiraterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppiraterDelegate.h; sourceTree = "<group>"; };
-		5839FD5D1B710AA80000CB69 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD5E1B710AA80000CB69 /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD5F1B710AA80000CB69 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD601B710AA80000CB69 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD611B710AA80000CB69 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD621B710AA80000CB69 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD631B710AA80000CB69 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD641B710AA80000CB69 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD651B710AA80000CB69 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD661B710AA80000CB69 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD671B710AA80000CB69 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD681B710AA80000CB69 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD691B710AA80000CB69 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD6A1B710AA80000CB69 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD6B1B710AA80000CB69 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD6C1B710AA80000CB69 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD6D1B710AA80000CB69 /* ms */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ms; path = ms.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD6E1B710AA80000CB69 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD6F1B710AA80000CB69 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD701B710AA80000CB69 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD711B710AA80000CB69 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/AppiraterLocalizable.strings"; sourceTree = "<group>"; };
-		5839FD721B710AA80000CB69 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD731B710AA80000CB69 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD741B710AA80000CB69 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD751B710AA80000CB69 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD761B710AA80000CB69 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD771B710AA80000CB69 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD781B710AA80000CB69 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD791B710AA80000CB69 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD7A1B710AA80000CB69 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
-		5839FD7B1B710AA80000CB69 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/AppiraterLocalizable.strings"; sourceTree = "<group>"; };
-		5839FD7C1B710AA80000CB69 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/AppiraterLocalizable.strings"; sourceTree = "<group>"; };
-		5839FD7E1B710AA80000CB69 /* CCCropNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCCropNode.h; sourceTree = "<group>"; };
-		5839FD7F1B710AA80000CB69 /* CCCropNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCCropNode.m; sourceTree = "<group>"; };
-		5839FD811B710AA80000CB69 /* CCDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDictionary.h; sourceTree = "<group>"; };
-		5839FD821B710AA80000CB69 /* CCDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCDictionary.m; sourceTree = "<group>"; };
-		5839FD841B710AA80000CB69 /* CCLayerSmoothLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCLayerSmoothLine.h; sourceTree = "<group>"; };
-		5839FD851B710AA80000CB69 /* CCLayerSmoothLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCLayerSmoothLine.m; sourceTree = "<group>"; };
-		5839FD871B710AA80000CB69 /* CCNodeTag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCNodeTag.h; sourceTree = "<group>"; };
-		5839FD881B710AA80000CB69 /* CCNodeTag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCNodeTag.m; sourceTree = "<group>"; };
-		5839FD8B1B710AA80000CB69 /* chase_johnson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chase_johnson.json; sourceTree = "<group>"; };
-		5839FD8C1B710AA80000CB69 /* chase_johnson.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chase_johnson.plist; sourceTree = "<group>"; };
-		5839FD8D1B710AA80000CB69 /* chase_johnson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chase_johnson.png; sourceTree = "<group>"; };
-		5839FD8E1B710AA80000CB69 /* CCSpineAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineAnimation.h; sourceTree = "<group>"; };
-		5839FD8F1B710AA80000CB69 /* CCSpineAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineAnimation.m; sourceTree = "<group>"; };
-		5839FD901B710AA80000CB69 /* CCSpineAnimationControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineAnimationControl.h; sourceTree = "<group>"; };
-		5839FD911B710AA80000CB69 /* CCSpineAnimationControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineAnimationControl.m; sourceTree = "<group>"; };
-		5839FD921B710AA80000CB69 /* CCSpineBone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineBone.h; sourceTree = "<group>"; };
-		5839FD931B710AA80000CB69 /* CCSpineBone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineBone.m; sourceTree = "<group>"; };
-		5839FD941B710AA80000CB69 /* CCSpineCurve.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineCurve.h; sourceTree = "<group>"; };
-		5839FD951B710AA80000CB69 /* CCSpineCurve.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineCurve.m; sourceTree = "<group>"; };
-		5839FD961B710AA80000CB69 /* CCSpineSample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSample.h; sourceTree = "<group>"; };
-		5839FD971B710AA80000CB69 /* CCSpineSample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSample.m; sourceTree = "<group>"; };
-		5839FD981B710AA80000CB69 /* CCSpineSkeleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSkeleton.h; sourceTree = "<group>"; };
-		5839FD991B710AA80000CB69 /* CCSpineSkeleton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSkeleton.m; sourceTree = "<group>"; };
-		5839FD9A1B710AA80000CB69 /* CCSpineSkin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSkin.h; sourceTree = "<group>"; };
-		5839FD9B1B710AA80000CB69 /* CCSpineSkin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSkin.m; sourceTree = "<group>"; };
-		5839FD9C1B710AA80000CB69 /* CCSpineSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSprite.h; sourceTree = "<group>"; };
-		5839FD9D1B710AA80000CB69 /* CCSpineSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSprite.m; sourceTree = "<group>"; };
-		5839FD9E1B710AA80000CB69 /* CCSpineTexture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineTexture.h; sourceTree = "<group>"; };
-		5839FD9F1B710AA80000CB69 /* CCSpineTexture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineTexture.m; sourceTree = "<group>"; };
-		5839FDA01B710AA80000CB69 /* CCSpineTimeline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineTimeline.h; sourceTree = "<group>"; };
-		5839FDA11B710AA80000CB69 /* CCSpineTimeline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineTimeline.m; sourceTree = "<group>"; };
-		5839FDA31B710AA80000CB69 /* CCSpriteMultiTouch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpriteMultiTouch.h; sourceTree = "<group>"; };
-		5839FDA41B710AA80000CB69 /* CCSpriteMultiTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpriteMultiTouch.m; sourceTree = "<group>"; };
-		5839FDA61B710AA80000CB69 /* CCTransformationNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTransformationNode.h; sourceTree = "<group>"; };
-		5839FDA71B710AA80000CB69 /* CCTransformationNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTransformationNode.m; sourceTree = "<group>"; };
-		5839FDAA1B710AA80000CB69 /* icon_session.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_session.png; sourceTree = "<group>"; };
-		5839FDAB1B710AA80000CB69 /* icon_session@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_session@2x.png"; sourceTree = "<group>"; };
-		5839FDAC1B710AA80000CB69 /* icon_timeline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_timeline.png; sourceTree = "<group>"; };
-		5839FDAD1B710AA80000CB69 /* icon_timeline@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_timeline@2x.png"; sourceTree = "<group>"; };
-		5839FDAE1B710AA80000CB69 /* libWeChatSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeChatSDK.a; sourceTree = "<group>"; };
-		5839FDAF1B710AA80000CB69 /* WXApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApi.h; sourceTree = "<group>"; };
-		5839FDB01B710AA80000CB69 /* WXApiObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApiObject.h; sourceTree = "<group>"; };
-		5839FDB11B710AA80000CB69 /* WeixinActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeixinActivity.h; sourceTree = "<group>"; };
-		5839FDB21B710AA80000CB69 /* WeixinActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeixinActivity.m; sourceTree = "<group>"; };
-		5839FDB31B710AA80000CB69 /* WeixinSessionActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeixinSessionActivity.h; sourceTree = "<group>"; };
-		5839FDB41B710AA80000CB69 /* WeixinSessionActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeixinSessionActivity.m; sourceTree = "<group>"; };
-		5839FDB51B710AA80000CB69 /* WeixinTimelineActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeixinTimelineActivity.h; sourceTree = "<group>"; };
-		5839FDB61B710AA80000CB69 /* WeixinTimelineActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeixinTimelineActivity.m; sourceTree = "<group>"; };
-		5839FDB81B710AA80000CB69 /* GameCenterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameCenterManager.h; sourceTree = "<group>"; };
-		5839FDB91B710AA80000CB69 /* GameCenterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameCenterManager.m; sourceTree = "<group>"; };
-		5839FDBA1B710AA80000CB69 /* VZGameCenterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZGameCenterManager.h; sourceTree = "<group>"; };
-		5839FDBB1B710AA80000CB69 /* VZGameCenterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZGameCenterManager.m; sourceTree = "<group>"; };
-		5839FDBD1B710AA80000CB69 /* IdentifyInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = IdentifyInfo.plist; sourceTree = "<group>"; };
-		5839FDBE1B710AA80000CB69 /* VZIdentifyManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZIdentifyManager.h; sourceTree = "<group>"; };
-		5839FDBF1B710AA80000CB69 /* VZIdentifyManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZIdentifyManager.m; sourceTree = "<group>"; };
-		5839FDC11B710AA80000CB69 /* VZCommodityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCommodityManager.h; sourceTree = "<group>"; };
-		5839FDC21B710AA80000CB69 /* VZCommodityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCommodityManager.m; sourceTree = "<group>"; };
-		5839FDC31B710AA80000CB69 /* VZConversItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZConversItem.h; sourceTree = "<group>"; };
-		5839FDC41B710AA80000CB69 /* VZConversItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZConversItem.m; sourceTree = "<group>"; };
-		5839FDC51B710AA80000CB69 /* VZInAppPurchaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInAppPurchaseManager.h; sourceTree = "<group>"; };
-		5839FDC61B710AA80000CB69 /* VZInAppPurchaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInAppPurchaseManager.m; sourceTree = "<group>"; };
-		5839FDC71B710AA80000CB69 /* VZPurchaseItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZPurchaseItem.h; sourceTree = "<group>"; };
-		5839FDC81B710AA80000CB69 /* VZPurchaseItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZPurchaseItem.m; sourceTree = "<group>"; };
-		5839FDC91B710AA80000CB69 /* VZShipDataBaseItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZShipDataBaseItem.h; sourceTree = "<group>"; };
-		5839FDCA1B710AA80000CB69 /* VZShipDataBaseItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZShipDataBaseItem.m; sourceTree = "<group>"; };
-		5839FDCC1B710AA80000CB69 /* VZAlertLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZAlertLayer.h; sourceTree = "<group>"; };
-		5839FDCD1B710AA80000CB69 /* VZAlertLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZAlertLayer.m; sourceTree = "<group>"; };
-		5839FDCE1B710AA80000CB69 /* VZInterimLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterimLayer.h; sourceTree = "<group>"; };
-		5839FDCF1B710AA80000CB69 /* VZInterimLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterimLayer.m; sourceTree = "<group>"; };
-		5839FDD01B710AA80000CB69 /* VZInterimNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterimNode.h; sourceTree = "<group>"; };
-		5839FDD11B710AA80000CB69 /* VZInterimNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterimNode.m; sourceTree = "<group>"; };
-		5839FDD21B710AA80000CB69 /* VZLayerWithXIB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLayerWithXIB.h; sourceTree = "<group>"; };
-		5839FDD31B710AA80000CB69 /* VZLayerWithXIB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLayerWithXIB.m; sourceTree = "<group>"; };
-		5839FDD41B710AA80000CB69 /* VZScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZScene.h; sourceTree = "<group>"; };
-		5839FDD51B710AA80000CB69 /* VZScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZScene.m; sourceTree = "<group>"; };
-		5839FDD61B710AA80000CB69 /* VZWheelItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZWheelItem.h; sourceTree = "<group>"; };
-		5839FDD71B710AA80000CB69 /* VZWheelItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZWheelItem.m; sourceTree = "<group>"; };
-		5839FDD81B710AA80000CB69 /* VZWheelLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZWheelLayer.h; sourceTree = "<group>"; };
-		5839FDD91B710AA80000CB69 /* VZWheelLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZWheelLayer.m; sourceTree = "<group>"; };
-		5839FDDB1B710AA80000CB69 /* VZLevelItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLevelItem.h; sourceTree = "<group>"; };
-		5839FDDC1B710AA80000CB69 /* VZLevelItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLevelItem.m; sourceTree = "<group>"; };
-		5839FDDD1B710AA80000CB69 /* VZLevelManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLevelManager.h; sourceTree = "<group>"; };
-		5839FDDE1B710AA80000CB69 /* VZLevelManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLevelManager.m; sourceTree = "<group>"; };
-		5839FDE01B710AA80000CB69 /* VZRateManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZRateManager.h; sourceTree = "<group>"; };
-		5839FDE11B710AA80000CB69 /* VZRateManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZRateManager.m; sourceTree = "<group>"; };
-		5839FDE21B710AA80000CB69 /* VZShareManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZShareManager.h; sourceTree = "<group>"; };
-		5839FDE31B710AA80000CB69 /* VZShareManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZShareManager.m; sourceTree = "<group>"; };
-		5839FDE41B710AA80000CB69 /* VZShareViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZShareViewController.h; sourceTree = "<group>"; };
-		5839FDE51B710AA80000CB69 /* VZShareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZShareViewController.m; sourceTree = "<group>"; };
-		5839FDE71B710AA80000CB69 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
-		5839FDE81B710AA80000CB69 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
-		5839FDE91B710AA80000CB69 /* VZReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZReachability.h; sourceTree = "<group>"; };
-		5839FDEA1B710AA80000CB69 /* VZReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZReachability.m; sourceTree = "<group>"; };
-		5839FDEC1B710AA80000CB69 /* VZUserDefault.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZUserDefault.h; sourceTree = "<group>"; };
-		5839FDED1B710AA80000CB69 /* VZUserDefault.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZUserDefault.m; sourceTree = "<group>"; };
-		5839FDEF1B710AA80000CB69 /* VZWheelView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZWheelView.h; sourceTree = "<group>"; };
-		5839FDF01B710AA80000CB69 /* VZWheelView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZWheelView.m; sourceTree = "<group>"; };
+		583906411B7128E10000CB69 /* VZBloomForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZBloomForSprite.h; sourceTree = "<group>"; };
+		583906421B7128E10000CB69 /* VZBloomForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZBloomForSprite.m; sourceTree = "<group>"; };
+		583906431B7128E10000CB69 /* VZBrightForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZBrightForSprite.h; sourceTree = "<group>"; };
+		583906441B7128E10000CB69 /* VZBrightForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZBrightForSprite.m; sourceTree = "<group>"; };
+		583906451B7128E10000CB69 /* VZCircleMove.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCircleMove.h; sourceTree = "<group>"; };
+		583906461B7128E10000CB69 /* VZCircleMove.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCircleMove.m; sourceTree = "<group>"; };
+		583906471B7128E10000CB69 /* VZCircleMoveForParticle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCircleMoveForParticle.h; sourceTree = "<group>"; };
+		583906481B7128E10000CB69 /* VZCircleMoveForParticle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCircleMoveForParticle.m; sourceTree = "<group>"; };
+		583906491B7128E10000CB69 /* VZLoopTextureForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLoopTextureForSprite.h; sourceTree = "<group>"; };
+		5839064A1B7128E10000CB69 /* VZLoopTextureForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLoopTextureForSprite.m; sourceTree = "<group>"; };
+		5839064B1B7128E10000CB69 /* VZMoveByForParticle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZMoveByForParticle.h; sourceTree = "<group>"; };
+		5839064C1B7128E10000CB69 /* VZMoveByForParticle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZMoveByForParticle.m; sourceTree = "<group>"; };
+		5839064D1B7128E10000CB69 /* VZRotate3D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZRotate3D.h; sourceTree = "<group>"; };
+		5839064E1B7128E10000CB69 /* VZRotate3D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZRotate3D.m; sourceTree = "<group>"; };
+		5839064F1B7128E10000CB69 /* VZScrollNumberForLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZScrollNumberForLabel.h; sourceTree = "<group>"; };
+		583906501B7128E10000CB69 /* VZScrollNumberForLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZScrollNumberForLabel.m; sourceTree = "<group>"; };
+		583906511B7128E10000CB69 /* VZSpreadForSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZSpreadForSprite.h; sourceTree = "<group>"; };
+		583906521B7128E10000CB69 /* VZSpreadForSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZSpreadForSprite.m; sourceTree = "<group>"; };
+		583906551B7128E10000CB69 /* VZBannerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZBannerManager.h; sourceTree = "<group>"; };
+		583906561B7128E10000CB69 /* VZBannerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZBannerManager.m; sourceTree = "<group>"; };
+		583906591B7128E10000CB69 /* AdColony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AdColony.framework; sourceTree = "<group>"; };
+		5839065B1B7128E10000CB69 /* Chartboost.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Chartboost.framework; sourceTree = "<group>"; };
+		5839065D1B7128E10000CB69 /* GoogleMobileAds.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMobileAds.framework; sourceTree = "<group>"; };
+		5839065F1B7128E10000CB69 /* GADMAdNetworkAdapterProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADMAdNetworkAdapterProtocol.h; sourceTree = "<group>"; };
+		583906601B7128E10000CB69 /* GADMAdNetworkConnectorProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADMAdNetworkConnectorProtocol.h; sourceTree = "<group>"; };
+		583906611B7128E10000CB69 /* GADMEnums.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GADMEnums.h; sourceTree = "<group>"; };
+		583906621B7128E10000CB69 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		583906631B7128E10000CB69 /* VZInterstitialAdcolony.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialAdcolony.h; sourceTree = "<group>"; };
+		583906641B7128E10000CB69 /* VZInterstitialAdcolony.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialAdcolony.m; sourceTree = "<group>"; };
+		583906651B7128E10000CB69 /* VZInterstitialAdmob.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialAdmob.h; sourceTree = "<group>"; };
+		583906661B7128E10000CB69 /* VZInterstitialAdmob.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialAdmob.m; sourceTree = "<group>"; };
+		583906671B7128E10000CB69 /* VZInterstitialApple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialApple.h; sourceTree = "<group>"; };
+		583906681B7128E10000CB69 /* VZInterstitialApple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialApple.m; sourceTree = "<group>"; };
+		583906691B7128E10000CB69 /* VZInterstitialBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialBase.h; sourceTree = "<group>"; };
+		5839066A1B7128E10000CB69 /* VZInterstitialBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialBase.m; sourceTree = "<group>"; };
+		5839066B1B7128E10000CB69 /* VZInterstitialChartboost.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialChartboost.h; sourceTree = "<group>"; };
+		5839066C1B7128E10000CB69 /* VZInterstitialChartboost.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialChartboost.m; sourceTree = "<group>"; };
+		5839066D1B7128E10000CB69 /* VZInterstitialManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterstitialManager.h; sourceTree = "<group>"; };
+		5839066E1B7128E10000CB69 /* VZInterstitialManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterstitialManager.m; sourceTree = "<group>"; };
+		583906701B7128E10000CB69 /* VZArchievementBase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZArchievementBase.h; sourceTree = "<group>"; };
+		583906711B7128E10000CB69 /* VZArchievementBase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZArchievementBase.m; sourceTree = "<group>"; };
+		583906721B7128E10000CB69 /* VZArchievementManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZArchievementManager.h; sourceTree = "<group>"; };
+		583906731B7128E10000CB69 /* VZArchievementManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZArchievementManager.m; sourceTree = "<group>"; };
+		583906741B7128E10000CB69 /* VZArchievementStar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZArchievementStar.h; sourceTree = "<group>"; };
+		583906751B7128E10000CB69 /* VZArchievementStar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZArchievementStar.m; sourceTree = "<group>"; };
+		583906771B7128E10000CB69 /* VZAudioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZAudioManager.h; sourceTree = "<group>"; };
+		583906781B7128E10000CB69 /* VZAudioManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZAudioManager.m; sourceTree = "<group>"; };
+		5839067A1B7128E10000CB69 /* VZCommonDefine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCommonDefine.h; sourceTree = "<group>"; };
+		5839067C1B7128E10000CB69 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		5839067D1B7128E10000CB69 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		5839067E1B7128E10000CB69 /* VZButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZButton.h; sourceTree = "<group>"; };
+		5839067F1B7128E10000CB69 /* VZButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZButton.m; sourceTree = "<group>"; };
+		583906801B7128E10000CB69 /* VZDrawerMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZDrawerMenu.h; sourceTree = "<group>"; };
+		583906811B7128E10000CB69 /* VZDrawerMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZDrawerMenu.m; sourceTree = "<group>"; };
+		583906821B7128E10000CB69 /* VZMusicSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZMusicSwitch.h; sourceTree = "<group>"; };
+		583906831B7128E10000CB69 /* VZMusicSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZMusicSwitch.m; sourceTree = "<group>"; };
+		583906841B7128E10000CB69 /* VZPageControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZPageControl.h; sourceTree = "<group>"; };
+		583906851B7128E10000CB69 /* VZPageControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZPageControl.m; sourceTree = "<group>"; };
+		583906861B7128E10000CB69 /* VZProgress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZProgress.h; sourceTree = "<group>"; };
+		583906871B7128E10000CB69 /* VZProgress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZProgress.m; sourceTree = "<group>"; };
+		583906881B7128E10000CB69 /* VZSoundSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZSoundSwitch.h; sourceTree = "<group>"; };
+		583906891B7128E10000CB69 /* VZSoundSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZSoundSwitch.m; sourceTree = "<group>"; };
+		5839068A1B7128E10000CB69 /* VZSwitch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZSwitch.h; sourceTree = "<group>"; };
+		5839068B1B7128E10000CB69 /* VZSwitch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZSwitch.m; sourceTree = "<group>"; };
+		5839068D1B7128E10000CB69 /* VZCrossFadeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCrossFadeView.h; sourceTree = "<group>"; };
+		5839068E1B7128E10000CB69 /* VZCrossFadeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCrossFadeView.m; sourceTree = "<group>"; };
+		583906901B7128E10000CB69 /* GTMBase64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMBase64.h; sourceTree = "<group>"; };
+		583906911B7128E10000CB69 /* GTMBase64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GTMBase64.m; sourceTree = "<group>"; };
+		583906921B7128E10000CB69 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
+		583906931B7128E10000CB69 /* NSData+AES.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSData+AES.h"; sourceTree = "<group>"; };
+		583906941B7128E10000CB69 /* NSData+AES.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSData+AES.m"; sourceTree = "<group>"; };
+		583906951B7128E10000CB69 /* NSString+MD5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MD5.h"; sourceTree = "<group>"; };
+		583906961B7128E10000CB69 /* NSString+MD5.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+MD5.m"; sourceTree = "<group>"; };
+		583906971B7128E10000CB69 /* SecurityUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecurityUtil.h; sourceTree = "<group>"; };
+		583906981B7128E10000CB69 /* SecurityUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecurityUtil.m; sourceTree = "<group>"; };
+		5839069B1B7128E10000CB69 /* Appirater.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Appirater.h; sourceTree = "<group>"; };
+		5839069C1B7128E10000CB69 /* Appirater.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Appirater.m; sourceTree = "<group>"; };
+		5839069D1B7128E10000CB69 /* AppiraterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppiraterDelegate.h; sourceTree = "<group>"; };
+		5839069F1B7128E10000CB69 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A01B7128E10000CB69 /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A11B7128E10000CB69 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A21B7128E10000CB69 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A31B7128E10000CB69 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A41B7128E10000CB69 /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = el.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A51B7128E10000CB69 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A61B7128E10000CB69 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A71B7128E10000CB69 /* fi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fi; path = fi.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A81B7128E10000CB69 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906A91B7128E10000CB69 /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906AA1B7128E10000CB69 /* hu */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hu; path = hu.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906AB1B7128E10000CB69 /* id */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = id; path = id.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906AC1B7128E10000CB69 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906AD1B7128E10000CB69 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906AE1B7128E10000CB69 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906AF1B7128E10000CB69 /* ms */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ms; path = ms.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B01B7128E10000CB69 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B11B7128E10000CB69 /* nl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nl; path = nl.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B21B7128E10000CB69 /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B31B7128E10000CB69 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/AppiraterLocalizable.strings"; sourceTree = "<group>"; };
+		583906B41B7128E10000CB69 /* pt */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pt; path = pt.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B51B7128E10000CB69 /* ro */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ro; path = ro.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B61B7128E10000CB69 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B71B7128E10000CB69 /* sk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sk; path = sk.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B81B7128E10000CB69 /* sv */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = sv; path = sv.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906B91B7128E10000CB69 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906BA1B7128E10000CB69 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906BB1B7128E10000CB69 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906BC1B7128E10000CB69 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/AppiraterLocalizable.strings; sourceTree = "<group>"; };
+		583906BD1B7128E10000CB69 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/AppiraterLocalizable.strings"; sourceTree = "<group>"; };
+		583906BE1B7128E10000CB69 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/AppiraterLocalizable.strings"; sourceTree = "<group>"; };
+		583906C01B7128E10000CB69 /* CCCropNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCCropNode.h; sourceTree = "<group>"; };
+		583906C11B7128E10000CB69 /* CCCropNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCCropNode.m; sourceTree = "<group>"; };
+		583906C31B7128E10000CB69 /* CCDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCDictionary.h; sourceTree = "<group>"; };
+		583906C41B7128E10000CB69 /* CCDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCDictionary.m; sourceTree = "<group>"; };
+		583906C61B7128E10000CB69 /* CCLayerSmoothLine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCLayerSmoothLine.h; sourceTree = "<group>"; };
+		583906C71B7128E10000CB69 /* CCLayerSmoothLine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCLayerSmoothLine.m; sourceTree = "<group>"; };
+		583906C91B7128E10000CB69 /* CCNodeTag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCNodeTag.h; sourceTree = "<group>"; };
+		583906CA1B7128E10000CB69 /* CCNodeTag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCNodeTag.m; sourceTree = "<group>"; };
+		583906CD1B7128E10000CB69 /* chase_johnson.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chase_johnson.json; sourceTree = "<group>"; };
+		583906CE1B7128E10000CB69 /* chase_johnson.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = chase_johnson.plist; sourceTree = "<group>"; };
+		583906CF1B7128E10000CB69 /* chase_johnson.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = chase_johnson.png; sourceTree = "<group>"; };
+		583906D01B7128E10000CB69 /* CCSpineAnimation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineAnimation.h; sourceTree = "<group>"; };
+		583906D11B7128E10000CB69 /* CCSpineAnimation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineAnimation.m; sourceTree = "<group>"; };
+		583906D21B7128E10000CB69 /* CCSpineAnimationControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineAnimationControl.h; sourceTree = "<group>"; };
+		583906D31B7128E10000CB69 /* CCSpineAnimationControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineAnimationControl.m; sourceTree = "<group>"; };
+		583906D41B7128E10000CB69 /* CCSpineBone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineBone.h; sourceTree = "<group>"; };
+		583906D51B7128E10000CB69 /* CCSpineBone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineBone.m; sourceTree = "<group>"; };
+		583906D61B7128E10000CB69 /* CCSpineCurve.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineCurve.h; sourceTree = "<group>"; };
+		583906D71B7128E10000CB69 /* CCSpineCurve.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineCurve.m; sourceTree = "<group>"; };
+		583906D81B7128E10000CB69 /* CCSpineSample.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSample.h; sourceTree = "<group>"; };
+		583906D91B7128E10000CB69 /* CCSpineSample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSample.m; sourceTree = "<group>"; };
+		583906DA1B7128E10000CB69 /* CCSpineSkeleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSkeleton.h; sourceTree = "<group>"; };
+		583906DB1B7128E10000CB69 /* CCSpineSkeleton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSkeleton.m; sourceTree = "<group>"; };
+		583906DC1B7128E10000CB69 /* CCSpineSkin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSkin.h; sourceTree = "<group>"; };
+		583906DD1B7128E10000CB69 /* CCSpineSkin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSkin.m; sourceTree = "<group>"; };
+		583906DE1B7128E10000CB69 /* CCSpineSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineSprite.h; sourceTree = "<group>"; };
+		583906DF1B7128E10000CB69 /* CCSpineSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineSprite.m; sourceTree = "<group>"; };
+		583906E01B7128E10000CB69 /* CCSpineTexture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineTexture.h; sourceTree = "<group>"; };
+		583906E11B7128E10000CB69 /* CCSpineTexture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineTexture.m; sourceTree = "<group>"; };
+		583906E21B7128E10000CB69 /* CCSpineTimeline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpineTimeline.h; sourceTree = "<group>"; };
+		583906E31B7128E10000CB69 /* CCSpineTimeline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpineTimeline.m; sourceTree = "<group>"; };
+		583906E51B7128E10000CB69 /* CCSpriteMultiTouch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCSpriteMultiTouch.h; sourceTree = "<group>"; };
+		583906E61B7128E10000CB69 /* CCSpriteMultiTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCSpriteMultiTouch.m; sourceTree = "<group>"; };
+		583906E81B7128E10000CB69 /* CCTransformationNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTransformationNode.h; sourceTree = "<group>"; };
+		583906E91B7128E10000CB69 /* CCTransformationNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTransformationNode.m; sourceTree = "<group>"; };
+		583906EC1B7128E10000CB69 /* icon_session.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_session.png; sourceTree = "<group>"; };
+		583906ED1B7128E10000CB69 /* icon_session@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_session@2x.png"; sourceTree = "<group>"; };
+		583906EE1B7128E10000CB69 /* icon_timeline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_timeline.png; sourceTree = "<group>"; };
+		583906EF1B7128E10000CB69 /* icon_timeline@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_timeline@2x.png"; sourceTree = "<group>"; };
+		583906F01B7128E10000CB69 /* libWeChatSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeChatSDK.a; sourceTree = "<group>"; };
+		583906F11B7128E10000CB69 /* WXApi.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApi.h; sourceTree = "<group>"; };
+		583906F21B7128E10000CB69 /* WXApiObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXApiObject.h; sourceTree = "<group>"; };
+		583906F31B7128E10000CB69 /* WeixinActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeixinActivity.h; sourceTree = "<group>"; };
+		583906F41B7128E10000CB69 /* WeixinActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeixinActivity.m; sourceTree = "<group>"; };
+		583906F51B7128E10000CB69 /* WeixinSessionActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeixinSessionActivity.h; sourceTree = "<group>"; };
+		583906F61B7128E10000CB69 /* WeixinSessionActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeixinSessionActivity.m; sourceTree = "<group>"; };
+		583906F71B7128E10000CB69 /* WeixinTimelineActivity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeixinTimelineActivity.h; sourceTree = "<group>"; };
+		583906F81B7128E10000CB69 /* WeixinTimelineActivity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeixinTimelineActivity.m; sourceTree = "<group>"; };
+		583906FA1B7128E10000CB69 /* GameCenterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameCenterManager.h; sourceTree = "<group>"; };
+		583906FB1B7128E10000CB69 /* GameCenterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameCenterManager.m; sourceTree = "<group>"; };
+		583906FC1B7128E10000CB69 /* VZGameCenterManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZGameCenterManager.h; sourceTree = "<group>"; };
+		583906FD1B7128E10000CB69 /* VZGameCenterManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZGameCenterManager.m; sourceTree = "<group>"; };
+		583906FF1B7128E10000CB69 /* IdentifyInfo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = IdentifyInfo.plist; sourceTree = "<group>"; };
+		583907001B7128E10000CB69 /* VZIdentifyManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZIdentifyManager.h; sourceTree = "<group>"; };
+		583907011B7128E10000CB69 /* VZIdentifyManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZIdentifyManager.m; sourceTree = "<group>"; };
+		583907031B7128E10000CB69 /* VZCommodityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZCommodityManager.h; sourceTree = "<group>"; };
+		583907041B7128E10000CB69 /* VZCommodityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZCommodityManager.m; sourceTree = "<group>"; };
+		583907051B7128E10000CB69 /* VZConversItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZConversItem.h; sourceTree = "<group>"; };
+		583907061B7128E10000CB69 /* VZConversItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZConversItem.m; sourceTree = "<group>"; };
+		583907071B7128E10000CB69 /* VZInAppPurchaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInAppPurchaseManager.h; sourceTree = "<group>"; };
+		583907081B7128E10000CB69 /* VZInAppPurchaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInAppPurchaseManager.m; sourceTree = "<group>"; };
+		583907091B7128E10000CB69 /* VZPurchaseItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZPurchaseItem.h; sourceTree = "<group>"; };
+		5839070A1B7128E10000CB69 /* VZPurchaseItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZPurchaseItem.m; sourceTree = "<group>"; };
+		5839070B1B7128E10000CB69 /* VZShipDataBaseItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZShipDataBaseItem.h; sourceTree = "<group>"; };
+		5839070C1B7128E10000CB69 /* VZShipDataBaseItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZShipDataBaseItem.m; sourceTree = "<group>"; };
+		5839070E1B7128E10000CB69 /* VZAlertLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZAlertLayer.h; sourceTree = "<group>"; };
+		5839070F1B7128E10000CB69 /* VZAlertLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZAlertLayer.m; sourceTree = "<group>"; };
+		583907101B7128E10000CB69 /* VZInterimLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterimLayer.h; sourceTree = "<group>"; };
+		583907111B7128E10000CB69 /* VZInterimLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterimLayer.m; sourceTree = "<group>"; };
+		583907121B7128E10000CB69 /* VZInterimNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZInterimNode.h; sourceTree = "<group>"; };
+		583907131B7128E10000CB69 /* VZInterimNode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZInterimNode.m; sourceTree = "<group>"; };
+		583907141B7128E10000CB69 /* VZLayerWithXIB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLayerWithXIB.h; sourceTree = "<group>"; };
+		583907151B7128E10000CB69 /* VZLayerWithXIB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLayerWithXIB.m; sourceTree = "<group>"; };
+		583907161B7128E10000CB69 /* VZScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZScene.h; sourceTree = "<group>"; };
+		583907171B7128E10000CB69 /* VZScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZScene.m; sourceTree = "<group>"; };
+		583907181B7128E10000CB69 /* VZWheelItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZWheelItem.h; sourceTree = "<group>"; };
+		583907191B7128E10000CB69 /* VZWheelItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZWheelItem.m; sourceTree = "<group>"; };
+		5839071A1B7128E10000CB69 /* VZWheelLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZWheelLayer.h; sourceTree = "<group>"; };
+		5839071B1B7128E10000CB69 /* VZWheelLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZWheelLayer.m; sourceTree = "<group>"; };
+		5839071D1B7128E10000CB69 /* VZLevelItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLevelItem.h; sourceTree = "<group>"; };
+		5839071E1B7128E10000CB69 /* VZLevelItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLevelItem.m; sourceTree = "<group>"; };
+		5839071F1B7128E10000CB69 /* VZLevelManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZLevelManager.h; sourceTree = "<group>"; };
+		583907201B7128E10000CB69 /* VZLevelManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZLevelManager.m; sourceTree = "<group>"; };
+		583907221B7128E10000CB69 /* VZRateManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZRateManager.h; sourceTree = "<group>"; };
+		583907231B7128E10000CB69 /* VZRateManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZRateManager.m; sourceTree = "<group>"; };
+		583907241B7128E10000CB69 /* VZShareManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZShareManager.h; sourceTree = "<group>"; };
+		583907251B7128E10000CB69 /* VZShareManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZShareManager.m; sourceTree = "<group>"; };
+		583907261B7128E10000CB69 /* VZShareViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZShareViewController.h; sourceTree = "<group>"; };
+		583907271B7128E10000CB69 /* VZShareViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZShareViewController.m; sourceTree = "<group>"; };
+		583907291B7128E10000CB69 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		5839072A1B7128E10000CB69 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		5839072B1B7128E10000CB69 /* VZReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZReachability.h; sourceTree = "<group>"; };
+		5839072C1B7128E10000CB69 /* VZReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZReachability.m; sourceTree = "<group>"; };
+		5839072E1B7128E10000CB69 /* VZUserDefault.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZUserDefault.h; sourceTree = "<group>"; };
+		5839072F1B7128E10000CB69 /* VZUserDefault.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZUserDefault.m; sourceTree = "<group>"; };
+		583907311B7128E10000CB69 /* VZWheelView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VZWheelView.h; sourceTree = "<group>"; };
+		583907321B7128E10000CB69 /* VZWheelView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VZWheelView.m; sourceTree = "<group>"; };
 		5839FE501B710B4A0000CB69 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
 		5839FE521B710B500000CB69 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		5B12100919748273004C1E1D /* libEGL.so */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libEGL.so; path = /usr/lib/armv7a/libEGL.so; sourceTree = SDKROOT; };
@@ -556,7 +556,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5839073E1B7128E10000CB69 /* Chartboost.framework in Frameworks */,
+				583907711B7128E10000CB69 /* libWeChatSDK.a in Frameworks */,
 				5839FE531B710B500000CB69 /* WebKit.framework in Frameworks */,
+				5839073F1B7128E10000CB69 /* GoogleMobileAds.framework in Frameworks */,
 				5839FE511B710B4A0000CB69 /* Social.framework in Frameworks */,
 				7A97911819E631CD001FFC4D /* libcocos2d.a in Frameworks */,
 				8392007A18EE8E3300B6C429 /* GLKit.framework in Frameworks */,
@@ -564,481 +567,478 @@
 				B77F1B3417B978D7009739AE /* OpenGLES.framework in Frameworks */,
 				B77F1B3617B978D7009739AE /* OpenAL.framework in Frameworks */,
 				B77F1B3817B978D7009739AE /* AudioToolbox.framework in Frameworks */,
-				5839FDFC1B710AA80000CB69 /* Chartboost.framework in Frameworks */,
 				B77F1B3A17B978D7009739AE /* AVFoundation.framework in Frameworks */,
-				5839FDFB1B710AA80000CB69 /* AdColony.framework in Frameworks */,
+				5839073D1B7128E10000CB69 /* AdColony.framework in Frameworks */,
 				B77F1B3C17B978D7009739AE /* UIKit.framework in Frameworks */,
 				B77F1B3E17B978D7009739AE /* Foundation.framework in Frameworks */,
 				B77F1B4017B978D7009739AE /* CoreGraphics.framework in Frameworks */,
-				5839FDFD1B710AA80000CB69 /* GoogleMobileAds.framework in Frameworks */,
 				B77F1B4217B978D7009739AE /* CoreText.framework in Frameworks */,
-				5839FE2F1B710AA80000CB69 /* libWeChatSDK.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5839FCFD1B710AA80000CB69 /* Common */ = {
+		5839063F1B7128E10000CB69 /* Common */ = {
 			isa = PBXGroup;
 			children = (
-				5839FCFE1B710AA80000CB69 /* Action */,
-				5839FD111B710AA80000CB69 /* AdManager */,
-				5839FD2D1B710AA80000CB69 /* ArchievementManager */,
-				5839FD341B710AA80000CB69 /* AudioManager */,
-				5839FD371B710AA80000CB69 /* CommonDefine */,
-				5839FD391B710AA80000CB69 /* Control */,
-				5839FD4A1B710AA80000CB69 /* CrossFadeView */,
-				5839FD4D1B710AA80000CB69 /* Encryption */,
-				5839FD571B710AA80000CB69 /* Extensions */,
-				5839FDB71B710AA80000CB69 /* GameCenter */,
-				5839FDBC1B710AA80000CB69 /* IdentifierManager */,
-				5839FDC01B710AA80000CB69 /* InAppPurchase */,
-				5839FDCB1B710AA80000CB69 /* Layer */,
-				5839FDDA1B710AA80000CB69 /* LevelManager */,
-				5839FDDF1B710AA80000CB69 /* Promote */,
-				5839FDE61B710AA80000CB69 /* Reachability */,
-				5839FDEB1B710AA80000CB69 /* UserDefault */,
-				5839FDEE1B710AA80000CB69 /* WheelView */,
+				583906401B7128E10000CB69 /* Action */,
+				583906531B7128E10000CB69 /* AdManager */,
+				5839066F1B7128E10000CB69 /* ArchievementManager */,
+				583906761B7128E10000CB69 /* AudioManager */,
+				583906791B7128E10000CB69 /* CommonDefine */,
+				5839067B1B7128E10000CB69 /* Control */,
+				5839068C1B7128E10000CB69 /* CrossFadeView */,
+				5839068F1B7128E10000CB69 /* Encryption */,
+				583906991B7128E10000CB69 /* Extensions */,
+				583906F91B7128E10000CB69 /* GameCenter */,
+				583906FE1B7128E10000CB69 /* IdentifierManager */,
+				583907021B7128E10000CB69 /* InAppPurchase */,
+				5839070D1B7128E10000CB69 /* Layer */,
+				5839071C1B7128E10000CB69 /* LevelManager */,
+				583907211B7128E10000CB69 /* Promote */,
+				583907281B7128E10000CB69 /* Reachability */,
+				5839072D1B7128E10000CB69 /* UserDefault */,
+				583907301B7128E10000CB69 /* WheelView */,
 			);
 			name = Common;
 			path = Source/Common;
 			sourceTree = "<group>";
 		};
-		5839FCFE1B710AA80000CB69 /* Action */ = {
+		583906401B7128E10000CB69 /* Action */ = {
 			isa = PBXGroup;
 			children = (
-				5839FCFF1B710AA80000CB69 /* VZBloomForSprite.h */,
-				5839FD001B710AA80000CB69 /* VZBloomForSprite.m */,
-				5839FD011B710AA80000CB69 /* VZBrightForSprite.h */,
-				5839FD021B710AA80000CB69 /* VZBrightForSprite.m */,
-				5839FD031B710AA80000CB69 /* VZCircleMove.h */,
-				5839FD041B710AA80000CB69 /* VZCircleMove.m */,
-				5839FD051B710AA80000CB69 /* VZCircleMoveForParticle.h */,
-				5839FD061B710AA80000CB69 /* VZCircleMoveForParticle.m */,
-				5839FD071B710AA80000CB69 /* VZLoopTextureForSprite.h */,
-				5839FD081B710AA80000CB69 /* VZLoopTextureForSprite.m */,
-				5839FD091B710AA80000CB69 /* VZMoveByForParticle.h */,
-				5839FD0A1B710AA80000CB69 /* VZMoveByForParticle.m */,
-				5839FD0B1B710AA80000CB69 /* VZRotate3D.h */,
-				5839FD0C1B710AA80000CB69 /* VZRotate3D.m */,
-				5839FD0D1B710AA80000CB69 /* VZScrollNumberForLabel.h */,
-				5839FD0E1B710AA80000CB69 /* VZScrollNumberForLabel.m */,
-				5839FD0F1B710AA80000CB69 /* VZSpreadForSprite.h */,
-				5839FD101B710AA80000CB69 /* VZSpreadForSprite.m */,
+				583906411B7128E10000CB69 /* VZBloomForSprite.h */,
+				583906421B7128E10000CB69 /* VZBloomForSprite.m */,
+				583906431B7128E10000CB69 /* VZBrightForSprite.h */,
+				583906441B7128E10000CB69 /* VZBrightForSprite.m */,
+				583906451B7128E10000CB69 /* VZCircleMove.h */,
+				583906461B7128E10000CB69 /* VZCircleMove.m */,
+				583906471B7128E10000CB69 /* VZCircleMoveForParticle.h */,
+				583906481B7128E10000CB69 /* VZCircleMoveForParticle.m */,
+				583906491B7128E10000CB69 /* VZLoopTextureForSprite.h */,
+				5839064A1B7128E10000CB69 /* VZLoopTextureForSprite.m */,
+				5839064B1B7128E10000CB69 /* VZMoveByForParticle.h */,
+				5839064C1B7128E10000CB69 /* VZMoveByForParticle.m */,
+				5839064D1B7128E10000CB69 /* VZRotate3D.h */,
+				5839064E1B7128E10000CB69 /* VZRotate3D.m */,
+				5839064F1B7128E10000CB69 /* VZScrollNumberForLabel.h */,
+				583906501B7128E10000CB69 /* VZScrollNumberForLabel.m */,
+				583906511B7128E10000CB69 /* VZSpreadForSprite.h */,
+				583906521B7128E10000CB69 /* VZSpreadForSprite.m */,
 			);
 			path = Action;
 			sourceTree = "<group>";
 		};
-		5839FD111B710AA80000CB69 /* AdManager */ = {
+		583906531B7128E10000CB69 /* AdManager */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD121B710AA80000CB69 /* AdBanner */,
-				5839FD151B710AA80000CB69 /* VZInterstitialManager */,
+				583906541B7128E10000CB69 /* AdBanner */,
+				583906571B7128E10000CB69 /* VZInterstitialManager */,
 			);
 			path = AdManager;
 			sourceTree = "<group>";
 		};
-		5839FD121B710AA80000CB69 /* AdBanner */ = {
+		583906541B7128E10000CB69 /* AdBanner */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD131B710AA80000CB69 /* VZBannerManager.h */,
-				5839FD141B710AA80000CB69 /* VZBannerManager.m */,
+				583906551B7128E10000CB69 /* VZBannerManager.h */,
+				583906561B7128E10000CB69 /* VZBannerManager.m */,
 			);
 			path = AdBanner;
 			sourceTree = "<group>";
 		};
-		5839FD151B710AA80000CB69 /* VZInterstitialManager */ = {
+		583906571B7128E10000CB69 /* VZInterstitialManager */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD161B710AA80000CB69 /* Adcolony */,
-				5839FD181B710AA80000CB69 /* Chartboost */,
-				5839FD1A1B710AA80000CB69 /* GoogleMobileAdsSdkiOS */,
-				5839FD211B710AA80000CB69 /* VZInterstitialAdcolony.h */,
-				5839FD221B710AA80000CB69 /* VZInterstitialAdcolony.m */,
-				5839FD231B710AA80000CB69 /* VZInterstitialAdmob.h */,
-				5839FD241B710AA80000CB69 /* VZInterstitialAdmob.m */,
-				5839FD251B710AA80000CB69 /* VZInterstitialApple.h */,
-				5839FD261B710AA80000CB69 /* VZInterstitialApple.m */,
-				5839FD271B710AA80000CB69 /* VZInterstitialBase.h */,
-				5839FD281B710AA80000CB69 /* VZInterstitialBase.m */,
-				5839FD291B710AA80000CB69 /* VZInterstitialChartboost.h */,
-				5839FD2A1B710AA80000CB69 /* VZInterstitialChartboost.m */,
-				5839FD2B1B710AA80000CB69 /* VZInterstitialManager.h */,
-				5839FD2C1B710AA80000CB69 /* VZInterstitialManager.m */,
+				583906581B7128E10000CB69 /* Adcolony */,
+				5839065A1B7128E10000CB69 /* Chartboost */,
+				5839065C1B7128E10000CB69 /* GoogleMobileAdsSdkiOS */,
+				583906631B7128E10000CB69 /* VZInterstitialAdcolony.h */,
+				583906641B7128E10000CB69 /* VZInterstitialAdcolony.m */,
+				583906651B7128E10000CB69 /* VZInterstitialAdmob.h */,
+				583906661B7128E10000CB69 /* VZInterstitialAdmob.m */,
+				583906671B7128E10000CB69 /* VZInterstitialApple.h */,
+				583906681B7128E10000CB69 /* VZInterstitialApple.m */,
+				583906691B7128E10000CB69 /* VZInterstitialBase.h */,
+				5839066A1B7128E10000CB69 /* VZInterstitialBase.m */,
+				5839066B1B7128E10000CB69 /* VZInterstitialChartboost.h */,
+				5839066C1B7128E10000CB69 /* VZInterstitialChartboost.m */,
+				5839066D1B7128E10000CB69 /* VZInterstitialManager.h */,
+				5839066E1B7128E10000CB69 /* VZInterstitialManager.m */,
 			);
 			path = VZInterstitialManager;
 			sourceTree = "<group>";
 		};
-		5839FD161B710AA80000CB69 /* Adcolony */ = {
+		583906581B7128E10000CB69 /* Adcolony */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD171B710AA80000CB69 /* AdColony.framework */,
+				583906591B7128E10000CB69 /* AdColony.framework */,
 			);
 			path = Adcolony;
 			sourceTree = "<group>";
 		};
-		5839FD181B710AA80000CB69 /* Chartboost */ = {
+		5839065A1B7128E10000CB69 /* Chartboost */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD191B710AA80000CB69 /* Chartboost.framework */,
+				5839065B1B7128E10000CB69 /* Chartboost.framework */,
 			);
 			path = Chartboost;
 			sourceTree = "<group>";
 		};
-		5839FD1A1B710AA80000CB69 /* GoogleMobileAdsSdkiOS */ = {
+		5839065C1B7128E10000CB69 /* GoogleMobileAdsSdkiOS */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD1B1B710AA80000CB69 /* GoogleMobileAds.framework */,
-				5839FD1C1B710AA80000CB69 /* Mediation Adapters */,
+				5839065D1B7128E10000CB69 /* GoogleMobileAds.framework */,
+				5839065E1B7128E10000CB69 /* Mediation Adapters */,
 			);
 			path = GoogleMobileAdsSdkiOS;
 			sourceTree = "<group>";
 		};
-		5839FD1C1B710AA80000CB69 /* Mediation Adapters */ = {
+		5839065E1B7128E10000CB69 /* Mediation Adapters */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD1D1B710AA80000CB69 /* GADMAdNetworkAdapterProtocol.h */,
-				5839FD1E1B710AA80000CB69 /* GADMAdNetworkConnectorProtocol.h */,
-				5839FD1F1B710AA80000CB69 /* GADMEnums.h */,
-				5839FD201B710AA80000CB69 /* README.txt */,
+				5839065F1B7128E10000CB69 /* GADMAdNetworkAdapterProtocol.h */,
+				583906601B7128E10000CB69 /* GADMAdNetworkConnectorProtocol.h */,
+				583906611B7128E10000CB69 /* GADMEnums.h */,
+				583906621B7128E10000CB69 /* README.txt */,
 			);
 			path = "Mediation Adapters";
 			sourceTree = "<group>";
 		};
-		5839FD2D1B710AA80000CB69 /* ArchievementManager */ = {
+		5839066F1B7128E10000CB69 /* ArchievementManager */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD2E1B710AA80000CB69 /* VZArchievementBase.h */,
-				5839FD2F1B710AA80000CB69 /* VZArchievementBase.m */,
-				5839FD301B710AA80000CB69 /* VZArchievementManager.h */,
-				5839FD311B710AA80000CB69 /* VZArchievementManager.m */,
-				5839FD321B710AA80000CB69 /* VZArchievementStar.h */,
-				5839FD331B710AA80000CB69 /* VZArchievementStar.m */,
+				583906701B7128E10000CB69 /* VZArchievementBase.h */,
+				583906711B7128E10000CB69 /* VZArchievementBase.m */,
+				583906721B7128E10000CB69 /* VZArchievementManager.h */,
+				583906731B7128E10000CB69 /* VZArchievementManager.m */,
+				583906741B7128E10000CB69 /* VZArchievementStar.h */,
+				583906751B7128E10000CB69 /* VZArchievementStar.m */,
 			);
 			path = ArchievementManager;
 			sourceTree = "<group>";
 		};
-		5839FD341B710AA80000CB69 /* AudioManager */ = {
+		583906761B7128E10000CB69 /* AudioManager */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD351B710AA80000CB69 /* VZAudioManager.h */,
-				5839FD361B710AA80000CB69 /* VZAudioManager.m */,
+				583906771B7128E10000CB69 /* VZAudioManager.h */,
+				583906781B7128E10000CB69 /* VZAudioManager.m */,
 			);
 			path = AudioManager;
 			sourceTree = "<group>";
 		};
-		5839FD371B710AA80000CB69 /* CommonDefine */ = {
+		583906791B7128E10000CB69 /* CommonDefine */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD381B710AA80000CB69 /* VZCommonDefine.h */,
+				5839067A1B7128E10000CB69 /* VZCommonDefine.h */,
 			);
 			path = CommonDefine;
 			sourceTree = "<group>";
 		};
-		5839FD391B710AA80000CB69 /* Control */ = {
+		5839067B1B7128E10000CB69 /* Control */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD3A1B710AA80000CB69 /* MBProgressHUD.h */,
-				5839FD3B1B710AA80000CB69 /* MBProgressHUD.m */,
-				5839FD3C1B710AA80000CB69 /* VZButton.h */,
-				5839FD3D1B710AA80000CB69 /* VZButton.m */,
-				5839FD3E1B710AA80000CB69 /* VZDrawerMenu.h */,
-				5839FD3F1B710AA80000CB69 /* VZDrawerMenu.m */,
-				5839FD401B710AA80000CB69 /* VZMusicSwitch.h */,
-				5839FD411B710AA80000CB69 /* VZMusicSwitch.m */,
-				5839FD421B710AA80000CB69 /* VZPageControl.h */,
-				5839FD431B710AA80000CB69 /* VZPageControl.m */,
-				5839FD441B710AA80000CB69 /* VZProgress.h */,
-				5839FD451B710AA80000CB69 /* VZProgress.m */,
-				5839FD461B710AA80000CB69 /* VZSoundSwitch.h */,
-				5839FD471B710AA80000CB69 /* VZSoundSwitch.m */,
-				5839FD481B710AA80000CB69 /* VZSwitch.h */,
-				5839FD491B710AA80000CB69 /* VZSwitch.m */,
+				5839067C1B7128E10000CB69 /* MBProgressHUD.h */,
+				5839067D1B7128E10000CB69 /* MBProgressHUD.m */,
+				5839067E1B7128E10000CB69 /* VZButton.h */,
+				5839067F1B7128E10000CB69 /* VZButton.m */,
+				583906801B7128E10000CB69 /* VZDrawerMenu.h */,
+				583906811B7128E10000CB69 /* VZDrawerMenu.m */,
+				583906821B7128E10000CB69 /* VZMusicSwitch.h */,
+				583906831B7128E10000CB69 /* VZMusicSwitch.m */,
+				583906841B7128E10000CB69 /* VZPageControl.h */,
+				583906851B7128E10000CB69 /* VZPageControl.m */,
+				583906861B7128E10000CB69 /* VZProgress.h */,
+				583906871B7128E10000CB69 /* VZProgress.m */,
+				583906881B7128E10000CB69 /* VZSoundSwitch.h */,
+				583906891B7128E10000CB69 /* VZSoundSwitch.m */,
+				5839068A1B7128E10000CB69 /* VZSwitch.h */,
+				5839068B1B7128E10000CB69 /* VZSwitch.m */,
 			);
 			path = Control;
 			sourceTree = "<group>";
 		};
-		5839FD4A1B710AA80000CB69 /* CrossFadeView */ = {
+		5839068C1B7128E10000CB69 /* CrossFadeView */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD4B1B710AA80000CB69 /* VZCrossFadeView.h */,
-				5839FD4C1B710AA80000CB69 /* VZCrossFadeView.m */,
+				5839068D1B7128E10000CB69 /* VZCrossFadeView.h */,
+				5839068E1B7128E10000CB69 /* VZCrossFadeView.m */,
 			);
 			path = CrossFadeView;
 			sourceTree = "<group>";
 		};
-		5839FD4D1B710AA80000CB69 /* Encryption */ = {
+		5839068F1B7128E10000CB69 /* Encryption */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD4E1B710AA80000CB69 /* GTMBase64.h */,
-				5839FD4F1B710AA80000CB69 /* GTMBase64.m */,
-				5839FD501B710AA80000CB69 /* GTMDefines.h */,
-				5839FD511B710AA80000CB69 /* NSData+AES.h */,
-				5839FD521B710AA80000CB69 /* NSData+AES.m */,
-				5839FD531B710AA80000CB69 /* NSString+MD5.h */,
-				5839FD541B710AA80000CB69 /* NSString+MD5.m */,
-				5839FD551B710AA80000CB69 /* SecurityUtil.h */,
-				5839FD561B710AA80000CB69 /* SecurityUtil.m */,
+				583906901B7128E10000CB69 /* GTMBase64.h */,
+				583906911B7128E10000CB69 /* GTMBase64.m */,
+				583906921B7128E10000CB69 /* GTMDefines.h */,
+				583906931B7128E10000CB69 /* NSData+AES.h */,
+				583906941B7128E10000CB69 /* NSData+AES.m */,
+				583906951B7128E10000CB69 /* NSString+MD5.h */,
+				583906961B7128E10000CB69 /* NSString+MD5.m */,
+				583906971B7128E10000CB69 /* SecurityUtil.h */,
+				583906981B7128E10000CB69 /* SecurityUtil.m */,
 			);
 			path = Encryption;
 			sourceTree = "<group>";
 		};
-		5839FD571B710AA80000CB69 /* Extensions */ = {
+		583906991B7128E10000CB69 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD581B710AA80000CB69 /* appirater-master */,
-				5839FD7D1B710AA80000CB69 /* CCCropNode */,
-				5839FD801B710AA80000CB69 /* CCDictionary */,
-				5839FD831B710AA80000CB69 /* CCLayerSmoothLine */,
-				5839FD861B710AA80000CB69 /* CCNodeTag */,
-				5839FD891B710AA80000CB69 /* CCSpine */,
-				5839FDA21B710AA80000CB69 /* CCSpriteMultiTouch */,
-				5839FDA51B710AA80000CB69 /* CCTransformationNode */,
-				5839FDA81B710AA80000CB69 /* WeixinActivity */,
+				5839069A1B7128E10000CB69 /* appirater-master */,
+				583906BF1B7128E10000CB69 /* CCCropNode */,
+				583906C21B7128E10000CB69 /* CCDictionary */,
+				583906C51B7128E10000CB69 /* CCLayerSmoothLine */,
+				583906C81B7128E10000CB69 /* CCNodeTag */,
+				583906CB1B7128E10000CB69 /* CCSpine */,
+				583906E41B7128E10000CB69 /* CCSpriteMultiTouch */,
+				583906E71B7128E10000CB69 /* CCTransformationNode */,
+				583906EA1B7128E10000CB69 /* WeixinActivity */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		5839FD581B710AA80000CB69 /* appirater-master */ = {
+		5839069A1B7128E10000CB69 /* appirater-master */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD591B710AA80000CB69 /* Appirater.h */,
-				5839FD5A1B710AA80000CB69 /* Appirater.m */,
-				5839FD5B1B710AA80000CB69 /* AppiraterDelegate.h */,
-				5839FD5C1B710AA80000CB69 /* AppiraterLocalizable.strings */,
+				5839069B1B7128E10000CB69 /* Appirater.h */,
+				5839069C1B7128E10000CB69 /* Appirater.m */,
+				5839069D1B7128E10000CB69 /* AppiraterDelegate.h */,
+				5839069E1B7128E10000CB69 /* AppiraterLocalizable.strings */,
 			);
 			path = "appirater-master";
 			sourceTree = "<group>";
 		};
-		5839FD7D1B710AA80000CB69 /* CCCropNode */ = {
+		583906BF1B7128E10000CB69 /* CCCropNode */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD7E1B710AA80000CB69 /* CCCropNode.h */,
-				5839FD7F1B710AA80000CB69 /* CCCropNode.m */,
+				583906C01B7128E10000CB69 /* CCCropNode.h */,
+				583906C11B7128E10000CB69 /* CCCropNode.m */,
 			);
 			path = CCCropNode;
 			sourceTree = "<group>";
 		};
-		5839FD801B710AA80000CB69 /* CCDictionary */ = {
+		583906C21B7128E10000CB69 /* CCDictionary */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD811B710AA80000CB69 /* CCDictionary.h */,
-				5839FD821B710AA80000CB69 /* CCDictionary.m */,
+				583906C31B7128E10000CB69 /* CCDictionary.h */,
+				583906C41B7128E10000CB69 /* CCDictionary.m */,
 			);
 			path = CCDictionary;
 			sourceTree = "<group>";
 		};
-		5839FD831B710AA80000CB69 /* CCLayerSmoothLine */ = {
+		583906C51B7128E10000CB69 /* CCLayerSmoothLine */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD841B710AA80000CB69 /* CCLayerSmoothLine.h */,
-				5839FD851B710AA80000CB69 /* CCLayerSmoothLine.m */,
+				583906C61B7128E10000CB69 /* CCLayerSmoothLine.h */,
+				583906C71B7128E10000CB69 /* CCLayerSmoothLine.m */,
 			);
 			path = CCLayerSmoothLine;
 			sourceTree = "<group>";
 		};
-		5839FD861B710AA80000CB69 /* CCNodeTag */ = {
+		583906C81B7128E10000CB69 /* CCNodeTag */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD871B710AA80000CB69 /* CCNodeTag.h */,
-				5839FD881B710AA80000CB69 /* CCNodeTag.m */,
+				583906C91B7128E10000CB69 /* CCNodeTag.h */,
+				583906CA1B7128E10000CB69 /* CCNodeTag.m */,
 			);
 			path = CCNodeTag;
 			sourceTree = "<group>";
 		};
-		5839FD891B710AA80000CB69 /* CCSpine */ = {
+		583906CB1B7128E10000CB69 /* CCSpine */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD8A1B710AA80000CB69 /* Animation */,
-				5839FD8E1B710AA80000CB69 /* CCSpineAnimation.h */,
-				5839FD8F1B710AA80000CB69 /* CCSpineAnimation.m */,
-				5839FD901B710AA80000CB69 /* CCSpineAnimationControl.h */,
-				5839FD911B710AA80000CB69 /* CCSpineAnimationControl.m */,
-				5839FD921B710AA80000CB69 /* CCSpineBone.h */,
-				5839FD931B710AA80000CB69 /* CCSpineBone.m */,
-				5839FD941B710AA80000CB69 /* CCSpineCurve.h */,
-				5839FD951B710AA80000CB69 /* CCSpineCurve.m */,
-				5839FD961B710AA80000CB69 /* CCSpineSample.h */,
-				5839FD971B710AA80000CB69 /* CCSpineSample.m */,
-				5839FD981B710AA80000CB69 /* CCSpineSkeleton.h */,
-				5839FD991B710AA80000CB69 /* CCSpineSkeleton.m */,
-				5839FD9A1B710AA80000CB69 /* CCSpineSkin.h */,
-				5839FD9B1B710AA80000CB69 /* CCSpineSkin.m */,
-				5839FD9C1B710AA80000CB69 /* CCSpineSprite.h */,
-				5839FD9D1B710AA80000CB69 /* CCSpineSprite.m */,
-				5839FD9E1B710AA80000CB69 /* CCSpineTexture.h */,
-				5839FD9F1B710AA80000CB69 /* CCSpineTexture.m */,
-				5839FDA01B710AA80000CB69 /* CCSpineTimeline.h */,
-				5839FDA11B710AA80000CB69 /* CCSpineTimeline.m */,
+				583906CC1B7128E10000CB69 /* Animation */,
+				583906D01B7128E10000CB69 /* CCSpineAnimation.h */,
+				583906D11B7128E10000CB69 /* CCSpineAnimation.m */,
+				583906D21B7128E10000CB69 /* CCSpineAnimationControl.h */,
+				583906D31B7128E10000CB69 /* CCSpineAnimationControl.m */,
+				583906D41B7128E10000CB69 /* CCSpineBone.h */,
+				583906D51B7128E10000CB69 /* CCSpineBone.m */,
+				583906D61B7128E10000CB69 /* CCSpineCurve.h */,
+				583906D71B7128E10000CB69 /* CCSpineCurve.m */,
+				583906D81B7128E10000CB69 /* CCSpineSample.h */,
+				583906D91B7128E10000CB69 /* CCSpineSample.m */,
+				583906DA1B7128E10000CB69 /* CCSpineSkeleton.h */,
+				583906DB1B7128E10000CB69 /* CCSpineSkeleton.m */,
+				583906DC1B7128E10000CB69 /* CCSpineSkin.h */,
+				583906DD1B7128E10000CB69 /* CCSpineSkin.m */,
+				583906DE1B7128E10000CB69 /* CCSpineSprite.h */,
+				583906DF1B7128E10000CB69 /* CCSpineSprite.m */,
+				583906E01B7128E10000CB69 /* CCSpineTexture.h */,
+				583906E11B7128E10000CB69 /* CCSpineTexture.m */,
+				583906E21B7128E10000CB69 /* CCSpineTimeline.h */,
+				583906E31B7128E10000CB69 /* CCSpineTimeline.m */,
 			);
 			path = CCSpine;
 			sourceTree = "<group>";
 		};
-		5839FD8A1B710AA80000CB69 /* Animation */ = {
+		583906CC1B7128E10000CB69 /* Animation */ = {
 			isa = PBXGroup;
 			children = (
-				5839FD8B1B710AA80000CB69 /* chase_johnson.json */,
-				5839FD8C1B710AA80000CB69 /* chase_johnson.plist */,
-				5839FD8D1B710AA80000CB69 /* chase_johnson.png */,
+				583906CD1B7128E10000CB69 /* chase_johnson.json */,
+				583906CE1B7128E10000CB69 /* chase_johnson.plist */,
+				583906CF1B7128E10000CB69 /* chase_johnson.png */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
 		};
-		5839FDA21B710AA80000CB69 /* CCSpriteMultiTouch */ = {
+		583906E41B7128E10000CB69 /* CCSpriteMultiTouch */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDA31B710AA80000CB69 /* CCSpriteMultiTouch.h */,
-				5839FDA41B710AA80000CB69 /* CCSpriteMultiTouch.m */,
+				583906E51B7128E10000CB69 /* CCSpriteMultiTouch.h */,
+				583906E61B7128E10000CB69 /* CCSpriteMultiTouch.m */,
 			);
 			path = CCSpriteMultiTouch;
 			sourceTree = "<group>";
 		};
-		5839FDA51B710AA80000CB69 /* CCTransformationNode */ = {
+		583906E71B7128E10000CB69 /* CCTransformationNode */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDA61B710AA80000CB69 /* CCTransformationNode.h */,
-				5839FDA71B710AA80000CB69 /* CCTransformationNode.m */,
+				583906E81B7128E10000CB69 /* CCTransformationNode.h */,
+				583906E91B7128E10000CB69 /* CCTransformationNode.m */,
 			);
 			path = CCTransformationNode;
 			sourceTree = "<group>";
 		};
-		5839FDA81B710AA80000CB69 /* WeixinActivity */ = {
+		583906EA1B7128E10000CB69 /* WeixinActivity */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDA91B710AA80000CB69 /* Resources */,
-				5839FDB11B710AA80000CB69 /* WeixinActivity.h */,
-				5839FDB21B710AA80000CB69 /* WeixinActivity.m */,
-				5839FDB31B710AA80000CB69 /* WeixinSessionActivity.h */,
-				5839FDB41B710AA80000CB69 /* WeixinSessionActivity.m */,
-				5839FDB51B710AA80000CB69 /* WeixinTimelineActivity.h */,
-				5839FDB61B710AA80000CB69 /* WeixinTimelineActivity.m */,
+				583906EB1B7128E10000CB69 /* Resources */,
+				583906F31B7128E10000CB69 /* WeixinActivity.h */,
+				583906F41B7128E10000CB69 /* WeixinActivity.m */,
+				583906F51B7128E10000CB69 /* WeixinSessionActivity.h */,
+				583906F61B7128E10000CB69 /* WeixinSessionActivity.m */,
+				583906F71B7128E10000CB69 /* WeixinTimelineActivity.h */,
+				583906F81B7128E10000CB69 /* WeixinTimelineActivity.m */,
 			);
 			path = WeixinActivity;
 			sourceTree = "<group>";
 		};
-		5839FDA91B710AA80000CB69 /* Resources */ = {
+		583906EB1B7128E10000CB69 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDAA1B710AA80000CB69 /* icon_session.png */,
-				5839FDAB1B710AA80000CB69 /* icon_session@2x.png */,
-				5839FDAC1B710AA80000CB69 /* icon_timeline.png */,
-				5839FDAD1B710AA80000CB69 /* icon_timeline@2x.png */,
-				5839FDAE1B710AA80000CB69 /* libWeChatSDK.a */,
-				5839FDAF1B710AA80000CB69 /* WXApi.h */,
-				5839FDB01B710AA80000CB69 /* WXApiObject.h */,
+				583906EC1B7128E10000CB69 /* icon_session.png */,
+				583906ED1B7128E10000CB69 /* icon_session@2x.png */,
+				583906EE1B7128E10000CB69 /* icon_timeline.png */,
+				583906EF1B7128E10000CB69 /* icon_timeline@2x.png */,
+				583906F01B7128E10000CB69 /* libWeChatSDK.a */,
+				583906F11B7128E10000CB69 /* WXApi.h */,
+				583906F21B7128E10000CB69 /* WXApiObject.h */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		5839FDB71B710AA80000CB69 /* GameCenter */ = {
+		583906F91B7128E10000CB69 /* GameCenter */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDB81B710AA80000CB69 /* GameCenterManager.h */,
-				5839FDB91B710AA80000CB69 /* GameCenterManager.m */,
-				5839FDBA1B710AA80000CB69 /* VZGameCenterManager.h */,
-				5839FDBB1B710AA80000CB69 /* VZGameCenterManager.m */,
+				583906FA1B7128E10000CB69 /* GameCenterManager.h */,
+				583906FB1B7128E10000CB69 /* GameCenterManager.m */,
+				583906FC1B7128E10000CB69 /* VZGameCenterManager.h */,
+				583906FD1B7128E10000CB69 /* VZGameCenterManager.m */,
 			);
 			path = GameCenter;
 			sourceTree = "<group>";
 		};
-		5839FDBC1B710AA80000CB69 /* IdentifierManager */ = {
+		583906FE1B7128E10000CB69 /* IdentifierManager */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDBD1B710AA80000CB69 /* IdentifyInfo.plist */,
-				5839FDBE1B710AA80000CB69 /* VZIdentifyManager.h */,
-				5839FDBF1B710AA80000CB69 /* VZIdentifyManager.m */,
+				583906FF1B7128E10000CB69 /* IdentifyInfo.plist */,
+				583907001B7128E10000CB69 /* VZIdentifyManager.h */,
+				583907011B7128E10000CB69 /* VZIdentifyManager.m */,
 			);
 			path = IdentifierManager;
 			sourceTree = "<group>";
 		};
-		5839FDC01B710AA80000CB69 /* InAppPurchase */ = {
+		583907021B7128E10000CB69 /* InAppPurchase */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDC11B710AA80000CB69 /* VZCommodityManager.h */,
-				5839FDC21B710AA80000CB69 /* VZCommodityManager.m */,
-				5839FDC31B710AA80000CB69 /* VZConversItem.h */,
-				5839FDC41B710AA80000CB69 /* VZConversItem.m */,
-				5839FDC51B710AA80000CB69 /* VZInAppPurchaseManager.h */,
-				5839FDC61B710AA80000CB69 /* VZInAppPurchaseManager.m */,
-				5839FDC71B710AA80000CB69 /* VZPurchaseItem.h */,
-				5839FDC81B710AA80000CB69 /* VZPurchaseItem.m */,
-				5839FDC91B710AA80000CB69 /* VZShipDataBaseItem.h */,
-				5839FDCA1B710AA80000CB69 /* VZShipDataBaseItem.m */,
+				583907031B7128E10000CB69 /* VZCommodityManager.h */,
+				583907041B7128E10000CB69 /* VZCommodityManager.m */,
+				583907051B7128E10000CB69 /* VZConversItem.h */,
+				583907061B7128E10000CB69 /* VZConversItem.m */,
+				583907071B7128E10000CB69 /* VZInAppPurchaseManager.h */,
+				583907081B7128E10000CB69 /* VZInAppPurchaseManager.m */,
+				583907091B7128E10000CB69 /* VZPurchaseItem.h */,
+				5839070A1B7128E10000CB69 /* VZPurchaseItem.m */,
+				5839070B1B7128E10000CB69 /* VZShipDataBaseItem.h */,
+				5839070C1B7128E10000CB69 /* VZShipDataBaseItem.m */,
 			);
 			path = InAppPurchase;
 			sourceTree = "<group>";
 		};
-		5839FDCB1B710AA80000CB69 /* Layer */ = {
+		5839070D1B7128E10000CB69 /* Layer */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDCC1B710AA80000CB69 /* VZAlertLayer.h */,
-				5839FDCD1B710AA80000CB69 /* VZAlertLayer.m */,
-				5839FDCE1B710AA80000CB69 /* VZInterimLayer.h */,
-				5839FDCF1B710AA80000CB69 /* VZInterimLayer.m */,
-				5839FDD01B710AA80000CB69 /* VZInterimNode.h */,
-				5839FDD11B710AA80000CB69 /* VZInterimNode.m */,
-				5839FDD21B710AA80000CB69 /* VZLayerWithXIB.h */,
-				5839FDD31B710AA80000CB69 /* VZLayerWithXIB.m */,
-				5839FDD41B710AA80000CB69 /* VZScene.h */,
-				5839FDD51B710AA80000CB69 /* VZScene.m */,
-				5839FDD61B710AA80000CB69 /* VZWheelItem.h */,
-				5839FDD71B710AA80000CB69 /* VZWheelItem.m */,
-				5839FDD81B710AA80000CB69 /* VZWheelLayer.h */,
-				5839FDD91B710AA80000CB69 /* VZWheelLayer.m */,
+				5839070E1B7128E10000CB69 /* VZAlertLayer.h */,
+				5839070F1B7128E10000CB69 /* VZAlertLayer.m */,
+				583907101B7128E10000CB69 /* VZInterimLayer.h */,
+				583907111B7128E10000CB69 /* VZInterimLayer.m */,
+				583907121B7128E10000CB69 /* VZInterimNode.h */,
+				583907131B7128E10000CB69 /* VZInterimNode.m */,
+				583907141B7128E10000CB69 /* VZLayerWithXIB.h */,
+				583907151B7128E10000CB69 /* VZLayerWithXIB.m */,
+				583907161B7128E10000CB69 /* VZScene.h */,
+				583907171B7128E10000CB69 /* VZScene.m */,
+				583907181B7128E10000CB69 /* VZWheelItem.h */,
+				583907191B7128E10000CB69 /* VZWheelItem.m */,
+				5839071A1B7128E10000CB69 /* VZWheelLayer.h */,
+				5839071B1B7128E10000CB69 /* VZWheelLayer.m */,
 			);
 			path = Layer;
 			sourceTree = "<group>";
 		};
-		5839FDDA1B710AA80000CB69 /* LevelManager */ = {
+		5839071C1B7128E10000CB69 /* LevelManager */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDDB1B710AA80000CB69 /* VZLevelItem.h */,
-				5839FDDC1B710AA80000CB69 /* VZLevelItem.m */,
-				5839FDDD1B710AA80000CB69 /* VZLevelManager.h */,
-				5839FDDE1B710AA80000CB69 /* VZLevelManager.m */,
+				5839071D1B7128E10000CB69 /* VZLevelItem.h */,
+				5839071E1B7128E10000CB69 /* VZLevelItem.m */,
+				5839071F1B7128E10000CB69 /* VZLevelManager.h */,
+				583907201B7128E10000CB69 /* VZLevelManager.m */,
 			);
 			path = LevelManager;
 			sourceTree = "<group>";
 		};
-		5839FDDF1B710AA80000CB69 /* Promote */ = {
+		583907211B7128E10000CB69 /* Promote */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDE01B710AA80000CB69 /* VZRateManager.h */,
-				5839FDE11B710AA80000CB69 /* VZRateManager.m */,
-				5839FDE21B710AA80000CB69 /* VZShareManager.h */,
-				5839FDE31B710AA80000CB69 /* VZShareManager.m */,
-				5839FDE41B710AA80000CB69 /* VZShareViewController.h */,
-				5839FDE51B710AA80000CB69 /* VZShareViewController.m */,
+				583907221B7128E10000CB69 /* VZRateManager.h */,
+				583907231B7128E10000CB69 /* VZRateManager.m */,
+				583907241B7128E10000CB69 /* VZShareManager.h */,
+				583907251B7128E10000CB69 /* VZShareManager.m */,
+				583907261B7128E10000CB69 /* VZShareViewController.h */,
+				583907271B7128E10000CB69 /* VZShareViewController.m */,
 			);
 			path = Promote;
 			sourceTree = "<group>";
 		};
-		5839FDE61B710AA80000CB69 /* Reachability */ = {
+		583907281B7128E10000CB69 /* Reachability */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDE71B710AA80000CB69 /* Reachability.h */,
-				5839FDE81B710AA80000CB69 /* Reachability.m */,
-				5839FDE91B710AA80000CB69 /* VZReachability.h */,
-				5839FDEA1B710AA80000CB69 /* VZReachability.m */,
+				583907291B7128E10000CB69 /* Reachability.h */,
+				5839072A1B7128E10000CB69 /* Reachability.m */,
+				5839072B1B7128E10000CB69 /* VZReachability.h */,
+				5839072C1B7128E10000CB69 /* VZReachability.m */,
 			);
 			path = Reachability;
 			sourceTree = "<group>";
 		};
-		5839FDEB1B710AA80000CB69 /* UserDefault */ = {
+		5839072D1B7128E10000CB69 /* UserDefault */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDEC1B710AA80000CB69 /* VZUserDefault.h */,
-				5839FDED1B710AA80000CB69 /* VZUserDefault.m */,
+				5839072E1B7128E10000CB69 /* VZUserDefault.h */,
+				5839072F1B7128E10000CB69 /* VZUserDefault.m */,
 			);
 			path = UserDefault;
 			sourceTree = "<group>";
 		};
-		5839FDEE1B710AA80000CB69 /* WheelView */ = {
+		583907301B7128E10000CB69 /* WheelView */ = {
 			isa = PBXGroup;
 			children = (
-				5839FDEF1B710AA80000CB69 /* VZWheelView.h */,
-				5839FDF01B710AA80000CB69 /* VZWheelView.m */,
+				583907311B7128E10000CB69 /* VZWheelView.h */,
+				583907321B7128E10000CB69 /* VZWheelView.m */,
 			);
 			path = WheelView;
 			sourceTree = "<group>";
@@ -1206,7 +1206,7 @@
 		B737893C1807616C0076A88C /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				5839FCFD1B710AA80000CB69 /* Common */,
+				5839063F1B7128E10000CB69 /* Common */,
 				7A40362019DDEF0D007B6E8F /* Platforms */,
 				B7378992180767190076A88C /* MainScene.h */,
 				B7378993180767190076A88C /* MainScene.m */,
@@ -1532,27 +1532,27 @@
 				B71F5919188484E7003F4D28 /* Settings.png in Resources */,
 				B7378978180762440076A88C /* Default@2x.png in Resources */,
 				B71F5914188484E7003F4D28 /* iPad@2x.png in Resources */,
-				5839FE171B710AA80000CB69 /* AppiraterLocalizable.strings in Resources */,
+				583907591B7128E10000CB69 /* AppiraterLocalizable.strings in Resources */,
 				B71F5913188484E7003F4D28 /* iPad.png in Resources */,
 				B71F5912188484E7003F4D28 /* iPad-old@2x.png in Resources */,
-				5839FE1C1B710AA80000CB69 /* chase_johnson.json in Resources */,
+				5839075E1B7128E10000CB69 /* chase_johnson.json in Resources */,
 				B71F5916188484E7003F4D28 /* iPhone-old@2x.png in Resources */,
-				5839FE2E1B710AA80000CB69 /* icon_timeline@2x.png in Resources */,
-				5839FDFE1B710AA80000CB69 /* README.txt in Resources */,
+				583907701B7128E10000CB69 /* icon_timeline@2x.png in Resources */,
+				583907401B7128E10000CB69 /* README.txt in Resources */,
 				B737893B180761570076A88C /* Published-iOS in Resources */,
-				5839FE1E1B710AA80000CB69 /* chase_johnson.png in Resources */,
-				5839FE2D1B710AA80000CB69 /* icon_timeline.png in Resources */,
+				583907601B7128E10000CB69 /* chase_johnson.png in Resources */,
+				5839076F1B7128E10000CB69 /* icon_timeline.png in Resources */,
 				B71F591A188484E7003F4D28 /* Settings@2x.png in Resources */,
 				B7378976180762440076A88C /* Default-Landscape~ipad.png in Resources */,
-				5839FE351B710AA80000CB69 /* IdentifyInfo.plist in Resources */,
+				583907771B7128E10000CB69 /* IdentifyInfo.plist in Resources */,
 				B71F5915188484E7003F4D28 /* iPhone-old.png in Resources */,
 				B71F5917188484E7003F4D28 /* iPhone.png in Resources */,
-				5839FE1D1B710AA80000CB69 /* chase_johnson.plist in Resources */,
-				5839FE2C1B710AA80000CB69 /* icon_session@2x.png in Resources */,
+				5839075F1B7128E10000CB69 /* chase_johnson.plist in Resources */,
+				5839076E1B7128E10000CB69 /* icon_session@2x.png in Resources */,
 				B7378975180762440076A88C /* Default-568h@2x.png in Resources */,
 				B71F5918188484E7003F4D28 /* iPhone@2x.png in Resources */,
 				B7378977180762440076A88C /* Default.png in Resources */,
-				5839FE2B1B710AA80000CB69 /* icon_session.png in Resources */,
+				5839076D1B7128E10000CB69 /* icon_session.png in Resources */,
 				B71F5911188484E7003F4D28 /* iPad-old.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1628,86 +1628,86 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5839FE471B710AA80000CB69 /* VZShareViewController.m in Sources */,
-				5839FDF31B710AA80000CB69 /* VZCircleMove.m in Sources */,
-				5839FE1B1B710AA80000CB69 /* CCNodeTag.m in Sources */,
-				5839FE481B710AA80000CB69 /* Reachability.m in Sources */,
-				5839FE401B710AA80000CB69 /* VZScene.m in Sources */,
-				5839FE0E1B710AA80000CB69 /* VZProgress.m in Sources */,
-				5839FE391B710AA80000CB69 /* VZInAppPurchaseManager.m in Sources */,
-				5839FE3E1B710AA80000CB69 /* VZInterimNode.m in Sources */,
-				5839FE321B710AA80000CB69 /* WeixinTimelineActivity.m in Sources */,
-				5839FE041B710AA80000CB69 /* VZInterstitialManager.m in Sources */,
-				5839FE3D1B710AA80000CB69 /* VZInterimLayer.m in Sources */,
-				5839FE1A1B710AA80000CB69 /* CCLayerSmoothLine.m in Sources */,
-				5839FE001B710AA80000CB69 /* VZInterstitialAdmob.m in Sources */,
-				5839FE301B710AA80000CB69 /* WeixinActivity.m in Sources */,
-				5839FE291B710AA80000CB69 /* CCSpriteMultiTouch.m in Sources */,
-				5839FDF21B710AA80000CB69 /* VZBrightForSprite.m in Sources */,
-				5839FE381B710AA80000CB69 /* VZConversItem.m in Sources */,
-				5839FE0F1B710AA80000CB69 /* VZSoundSwitch.m in Sources */,
-				5839FE261B710AA80000CB69 /* CCSpineSprite.m in Sources */,
-				5839FE271B710AA80000CB69 /* CCSpineTexture.m in Sources */,
-				5839FE441B710AA80000CB69 /* VZLevelManager.m in Sources */,
-				5839FE0D1B710AA80000CB69 /* VZPageControl.m in Sources */,
-				5839FDF61B710AA80000CB69 /* VZMoveByForParticle.m in Sources */,
-				5839FE191B710AA80000CB69 /* CCDictionary.m in Sources */,
-				5839FE281B710AA80000CB69 /* CCSpineTimeline.m in Sources */,
-				5839FE311B710AA80000CB69 /* WeixinSessionActivity.m in Sources */,
-				5839FE061B710AA80000CB69 /* VZArchievementManager.m in Sources */,
-				5839FE051B710AA80000CB69 /* VZArchievementBase.m in Sources */,
-				5839FE091B710AA80000CB69 /* MBProgressHUD.m in Sources */,
-				5839FDFA1B710AA80000CB69 /* VZBannerManager.m in Sources */,
-				5839FDF11B710AA80000CB69 /* VZBloomForSprite.m in Sources */,
-				5839FE421B710AA80000CB69 /* VZWheelLayer.m in Sources */,
-				5839FE371B710AA80000CB69 /* VZCommodityManager.m in Sources */,
-				5839FE331B710AA80000CB69 /* GameCenterManager.m in Sources */,
-				5839FE431B710AA80000CB69 /* VZLevelItem.m in Sources */,
-				5839FE411B710AA80000CB69 /* VZWheelItem.m in Sources */,
-				5839FE161B710AA80000CB69 /* Appirater.m in Sources */,
-				5839FE121B710AA80000CB69 /* GTMBase64.m in Sources */,
-				5839FE3F1B710AA80000CB69 /* VZLayerWithXIB.m in Sources */,
-				5839FE361B710AA80000CB69 /* VZIdentifyManager.m in Sources */,
-				5839FE4A1B710AA80000CB69 /* VZUserDefault.m in Sources */,
-				5839FE251B710AA80000CB69 /* CCSpineSkin.m in Sources */,
-				5839FE131B710AA80000CB69 /* NSData+AES.m in Sources */,
-				5839FE231B710AA80000CB69 /* CCSpineSample.m in Sources */,
+				583907891B7128E10000CB69 /* VZShareViewController.m in Sources */,
+				583907351B7128E10000CB69 /* VZCircleMove.m in Sources */,
+				5839075D1B7128E10000CB69 /* CCNodeTag.m in Sources */,
+				5839078A1B7128E10000CB69 /* Reachability.m in Sources */,
+				583907821B7128E10000CB69 /* VZScene.m in Sources */,
+				583907501B7128E10000CB69 /* VZProgress.m in Sources */,
+				5839077B1B7128E10000CB69 /* VZInAppPurchaseManager.m in Sources */,
+				583907801B7128E10000CB69 /* VZInterimNode.m in Sources */,
+				583907741B7128E10000CB69 /* WeixinTimelineActivity.m in Sources */,
+				583907461B7128E10000CB69 /* VZInterstitialManager.m in Sources */,
+				5839077F1B7128E10000CB69 /* VZInterimLayer.m in Sources */,
+				5839075C1B7128E10000CB69 /* CCLayerSmoothLine.m in Sources */,
+				583907421B7128E10000CB69 /* VZInterstitialAdmob.m in Sources */,
+				583907721B7128E10000CB69 /* WeixinActivity.m in Sources */,
+				5839076B1B7128E10000CB69 /* CCSpriteMultiTouch.m in Sources */,
+				583907341B7128E10000CB69 /* VZBrightForSprite.m in Sources */,
+				5839077A1B7128E10000CB69 /* VZConversItem.m in Sources */,
+				583907511B7128E10000CB69 /* VZSoundSwitch.m in Sources */,
+				583907681B7128E10000CB69 /* CCSpineSprite.m in Sources */,
+				583907691B7128E10000CB69 /* CCSpineTexture.m in Sources */,
+				583907861B7128E10000CB69 /* VZLevelManager.m in Sources */,
+				5839074F1B7128E10000CB69 /* VZPageControl.m in Sources */,
+				583907381B7128E10000CB69 /* VZMoveByForParticle.m in Sources */,
+				5839075B1B7128E10000CB69 /* CCDictionary.m in Sources */,
+				5839076A1B7128E10000CB69 /* CCSpineTimeline.m in Sources */,
+				583907731B7128E10000CB69 /* WeixinSessionActivity.m in Sources */,
+				583907481B7128E10000CB69 /* VZArchievementManager.m in Sources */,
+				583907471B7128E10000CB69 /* VZArchievementBase.m in Sources */,
+				5839074B1B7128E10000CB69 /* MBProgressHUD.m in Sources */,
+				5839073C1B7128E10000CB69 /* VZBannerManager.m in Sources */,
+				583907331B7128E10000CB69 /* VZBloomForSprite.m in Sources */,
+				583907841B7128E10000CB69 /* VZWheelLayer.m in Sources */,
+				583907791B7128E10000CB69 /* VZCommodityManager.m in Sources */,
+				583907751B7128E10000CB69 /* GameCenterManager.m in Sources */,
+				583907851B7128E10000CB69 /* VZLevelItem.m in Sources */,
+				583907831B7128E10000CB69 /* VZWheelItem.m in Sources */,
+				583907581B7128E10000CB69 /* Appirater.m in Sources */,
+				583907541B7128E10000CB69 /* GTMBase64.m in Sources */,
+				583907811B7128E10000CB69 /* VZLayerWithXIB.m in Sources */,
+				583907781B7128E10000CB69 /* VZIdentifyManager.m in Sources */,
+				5839078C1B7128E10000CB69 /* VZUserDefault.m in Sources */,
+				583907671B7128E10000CB69 /* CCSpineSkin.m in Sources */,
+				583907551B7128E10000CB69 /* NSData+AES.m in Sources */,
+				583907651B7128E10000CB69 /* CCSpineSample.m in Sources */,
 				B73789871807631A0076A88C /* main.m in Sources */,
-				5839FDF71B710AA80000CB69 /* VZRotate3D.m in Sources */,
-				5839FE211B710AA80000CB69 /* CCSpineBone.m in Sources */,
-				5839FE101B710AA80000CB69 /* VZSwitch.m in Sources */,
-				5839FE461B710AA80000CB69 /* VZShareManager.m in Sources */,
-				5839FE451B710AA80000CB69 /* VZRateManager.m in Sources */,
-				5839FE081B710AA80000CB69 /* VZAudioManager.m in Sources */,
-				5839FE151B710AA80000CB69 /* SecurityUtil.m in Sources */,
-				5839FE181B710AA80000CB69 /* CCCropNode.m in Sources */,
-				5839FE111B710AA80000CB69 /* VZCrossFadeView.m in Sources */,
-				5839FDF51B710AA80000CB69 /* VZLoopTextureForSprite.m in Sources */,
-				5839FE2A1B710AA80000CB69 /* CCTransformationNode.m in Sources */,
-				5839FE021B710AA80000CB69 /* VZInterstitialBase.m in Sources */,
-				5839FDF91B710AA80000CB69 /* VZSpreadForSprite.m in Sources */,
+				583907391B7128E10000CB69 /* VZRotate3D.m in Sources */,
+				583907631B7128E10000CB69 /* CCSpineBone.m in Sources */,
+				583907521B7128E10000CB69 /* VZSwitch.m in Sources */,
+				583907881B7128E10000CB69 /* VZShareManager.m in Sources */,
+				583907871B7128E10000CB69 /* VZRateManager.m in Sources */,
+				5839074A1B7128E10000CB69 /* VZAudioManager.m in Sources */,
+				583907571B7128E10000CB69 /* SecurityUtil.m in Sources */,
+				5839075A1B7128E10000CB69 /* CCCropNode.m in Sources */,
+				583907531B7128E10000CB69 /* VZCrossFadeView.m in Sources */,
+				583907371B7128E10000CB69 /* VZLoopTextureForSprite.m in Sources */,
+				5839076C1B7128E10000CB69 /* CCTransformationNode.m in Sources */,
+				583907441B7128E10000CB69 /* VZInterstitialBase.m in Sources */,
+				5839073B1B7128E10000CB69 /* VZSpreadForSprite.m in Sources */,
 				7A046D8C19E8A20E004C4763 /* MainScene.m in Sources */,
-				5839FE0B1B710AA80000CB69 /* VZDrawerMenu.m in Sources */,
-				5839FE031B710AA80000CB69 /* VZInterstitialChartboost.m in Sources */,
-				5839FE071B710AA80000CB69 /* VZArchievementStar.m in Sources */,
-				5839FE141B710AA80000CB69 /* NSString+MD5.m in Sources */,
-				5839FDF41B710AA80000CB69 /* VZCircleMoveForParticle.m in Sources */,
+				5839074D1B7128E10000CB69 /* VZDrawerMenu.m in Sources */,
+				583907451B7128E10000CB69 /* VZInterstitialChartboost.m in Sources */,
+				583907491B7128E10000CB69 /* VZArchievementStar.m in Sources */,
+				583907561B7128E10000CB69 /* NSString+MD5.m in Sources */,
+				583907361B7128E10000CB69 /* VZCircleMoveForParticle.m in Sources */,
 				5B121038197487F2004C1E1D /* AppDelegate.m in Sources */,
-				5839FE0C1B710AA80000CB69 /* VZMusicSwitch.m in Sources */,
-				5839FDFF1B710AA80000CB69 /* VZInterstitialAdcolony.m in Sources */,
-				5839FE341B710AA80000CB69 /* VZGameCenterManager.m in Sources */,
-				5839FE3B1B710AA80000CB69 /* VZShipDataBaseItem.m in Sources */,
-				5839FE491B710AA80000CB69 /* VZReachability.m in Sources */,
-				5839FE241B710AA80000CB69 /* CCSpineSkeleton.m in Sources */,
-				5839FE011B710AA80000CB69 /* VZInterstitialApple.m in Sources */,
-				5839FE4B1B710AA80000CB69 /* VZWheelView.m in Sources */,
-				5839FDF81B710AA80000CB69 /* VZScrollNumberForLabel.m in Sources */,
-				5839FE3A1B710AA80000CB69 /* VZPurchaseItem.m in Sources */,
-				5839FE221B710AA80000CB69 /* CCSpineCurve.m in Sources */,
-				5839FE1F1B710AA80000CB69 /* CCSpineAnimation.m in Sources */,
-				5839FE201B710AA80000CB69 /* CCSpineAnimationControl.m in Sources */,
-				5839FE3C1B710AA80000CB69 /* VZAlertLayer.m in Sources */,
-				5839FE0A1B710AA80000CB69 /* VZButton.m in Sources */,
+				5839074E1B7128E10000CB69 /* VZMusicSwitch.m in Sources */,
+				583907411B7128E10000CB69 /* VZInterstitialAdcolony.m in Sources */,
+				583907761B7128E10000CB69 /* VZGameCenterManager.m in Sources */,
+				5839077D1B7128E10000CB69 /* VZShipDataBaseItem.m in Sources */,
+				5839078B1B7128E10000CB69 /* VZReachability.m in Sources */,
+				583907661B7128E10000CB69 /* CCSpineSkeleton.m in Sources */,
+				583907431B7128E10000CB69 /* VZInterstitialApple.m in Sources */,
+				5839078D1B7128E10000CB69 /* VZWheelView.m in Sources */,
+				5839073A1B7128E10000CB69 /* VZScrollNumberForLabel.m in Sources */,
+				5839077C1B7128E10000CB69 /* VZPurchaseItem.m in Sources */,
+				583907641B7128E10000CB69 /* CCSpineCurve.m in Sources */,
+				583907611B7128E10000CB69 /* CCSpineAnimation.m in Sources */,
+				583907621B7128E10000CB69 /* CCSpineAnimationControl.m in Sources */,
+				5839077E1B7128E10000CB69 /* VZAlertLayer.m in Sources */,
+				5839074C1B7128E10000CB69 /* VZButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1732,41 +1732,41 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		5839FD5C1B710AA80000CB69 /* AppiraterLocalizable.strings */ = {
+		5839069E1B7128E10000CB69 /* AppiraterLocalizable.strings */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5839FD5D1B710AA80000CB69 /* ar */,
-				5839FD5E1B710AA80000CB69 /* ca */,
-				5839FD5F1B710AA80000CB69 /* cs */,
-				5839FD601B710AA80000CB69 /* da */,
-				5839FD611B710AA80000CB69 /* de */,
-				5839FD621B710AA80000CB69 /* el */,
-				5839FD631B710AA80000CB69 /* en */,
-				5839FD641B710AA80000CB69 /* es */,
-				5839FD651B710AA80000CB69 /* fi */,
-				5839FD661B710AA80000CB69 /* fr */,
-				5839FD671B710AA80000CB69 /* he */,
-				5839FD681B710AA80000CB69 /* hu */,
-				5839FD691B710AA80000CB69 /* id */,
-				5839FD6A1B710AA80000CB69 /* it */,
-				5839FD6B1B710AA80000CB69 /* ja */,
-				5839FD6C1B710AA80000CB69 /* ko */,
-				5839FD6D1B710AA80000CB69 /* ms */,
-				5839FD6E1B710AA80000CB69 /* nb */,
-				5839FD6F1B710AA80000CB69 /* nl */,
-				5839FD701B710AA80000CB69 /* pl */,
-				5839FD711B710AA80000CB69 /* pt-BR */,
-				5839FD721B710AA80000CB69 /* pt */,
-				5839FD731B710AA80000CB69 /* ro */,
-				5839FD741B710AA80000CB69 /* ru */,
-				5839FD751B710AA80000CB69 /* sk */,
-				5839FD761B710AA80000CB69 /* sv */,
-				5839FD771B710AA80000CB69 /* th */,
-				5839FD781B710AA80000CB69 /* tr */,
-				5839FD791B710AA80000CB69 /* uk */,
-				5839FD7A1B710AA80000CB69 /* vi */,
-				5839FD7B1B710AA80000CB69 /* zh-Hans */,
-				5839FD7C1B710AA80000CB69 /* zh-Hant */,
+				5839069F1B7128E10000CB69 /* ar */,
+				583906A01B7128E10000CB69 /* ca */,
+				583906A11B7128E10000CB69 /* cs */,
+				583906A21B7128E10000CB69 /* da */,
+				583906A31B7128E10000CB69 /* de */,
+				583906A41B7128E10000CB69 /* el */,
+				583906A51B7128E10000CB69 /* en */,
+				583906A61B7128E10000CB69 /* es */,
+				583906A71B7128E10000CB69 /* fi */,
+				583906A81B7128E10000CB69 /* fr */,
+				583906A91B7128E10000CB69 /* he */,
+				583906AA1B7128E10000CB69 /* hu */,
+				583906AB1B7128E10000CB69 /* id */,
+				583906AC1B7128E10000CB69 /* it */,
+				583906AD1B7128E10000CB69 /* ja */,
+				583906AE1B7128E10000CB69 /* ko */,
+				583906AF1B7128E10000CB69 /* ms */,
+				583906B01B7128E10000CB69 /* nb */,
+				583906B11B7128E10000CB69 /* nl */,
+				583906B21B7128E10000CB69 /* pl */,
+				583906B31B7128E10000CB69 /* pt-BR */,
+				583906B41B7128E10000CB69 /* pt */,
+				583906B51B7128E10000CB69 /* ro */,
+				583906B61B7128E10000CB69 /* ru */,
+				583906B71B7128E10000CB69 /* sk */,
+				583906B81B7128E10000CB69 /* sv */,
+				583906B91B7128E10000CB69 /* th */,
+				583906BA1B7128E10000CB69 /* tr */,
+				583906BB1B7128E10000CB69 /* uk */,
+				583906BC1B7128E10000CB69 /* vi */,
+				583906BD1B7128E10000CB69 /* zh-Hans */,
+				583906BE1B7128E10000CB69 /* zh-Hant */,
 			);
 			name = AppiraterLocalizable.strings;
 			sourceTree = "<group>";
