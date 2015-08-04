@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>kVZIdentifyAppID</key>
+	<string></string>
+	<key>kVZIdentifyInAppPurchases</key>
+	<array>
+		<dict>
+			<key>PurchaseIdentifier</key>
+			<string>pirate.bottle</string>
+			<key>CommodityIdentifier</key>
+			<string>pirate.soul</string>
+			<key>Amount</key>
+			<integer>100</integer>
+			<key>Title</key>
+			<string>A Bottle of Soul</string>
+			<key>Detail</key>
+			<string>It Contains 100 Soul</string>
+		</dict>
+		<dict>
+			<key>PurchaseIdentifier</key>
+			<string>pirate.bag</string>
+			<key>CommodityIdentifier</key>
+			<string>pirate.soul</string>
+			<key>Amount</key>
+			<string>288</string>
+			<key>Title</key>
+			<string>A Bag of Soul</string>
+			<key>Detail</key>
+			<string>It Contains 288 Soul</string>
+		</dict>
+		<dict>
+			<key>PurchaseIdentifier</key>
+			<string>pirate.chest</string>
+			<key>CommodityIdentifier</key>
+			<string>pirate.soul</string>
+			<key>Amount</key>
+			<string>2000</string>
+			<key>Title</key>
+			<string>A Chest of Soul</string>
+			<key>Detail</key>
+			<string>It Contains 2000 Soul</string>
+		</dict>
+		<dict>
+			<key>PurchaseIdentifier</key>
+			<string>pirate.ship</string>
+			<key>CommodityIdentifier</key>
+			<string>pirate.soul</string>
+			<key>Amount</key>
+			<string>5000</string>
+			<key>Title</key>
+			<string>A Ship of Soul</string>
+			<key>Detail</key>
+			<string>It Contains 5000 Soul</string>
+		</dict>
+	</array>
+	<key>kVZIdentifyCommdities</key>
+	<array>
+		<dict>
+			<key>CommodityIdentifier</key>
+			<string>pirate.soul</string>
+			<key>DefaultAmount</key>
+			<integer>100</integer>
+			<key>DefaultPrice</key>
+			<integer>-1</integer>
+			<key>Title</key>
+			<string>Soul</string>
+			<key>Detail</key>
+			<string>It is a Soul.</string>
+		</dict>
+		<dict>
+			<key>CommodityIdentifier</key>
+			<string>pirate.joker</string>
+			<key>DefaultAmount</key>
+			<string>3</string>
+			<key>DefaultPrice</key>
+			<string>100</string>
+			<key>Title</key>
+			<string>Joker</string>
+			<key>Detail</key>
+			<string>It is a Soul.</string>
+		</dict>
+		<dict>
+			<key>CommodityIdentifier</key>
+			<string>pirate.bomb</string>
+			<key>DefaultAmount</key>
+			<string>3</string>
+			<key>DefaultPrice</key>
+			<string>300</string>
+			<key>Title</key>
+			<string>Bomb</string>
+			<key>Detail</key>
+			<string>It is a Bomb</string>
+		</dict>
+		<dict>
+			<key>CommodityIdentifier</key>
+			<string>pirate.axe</string>
+			<key>DefaultAmount</key>
+			<string>3</string>
+			<key>DefaultPrice</key>
+			<string>200</string>
+			<key>Title</key>
+			<string>Axe</string>
+			<key>Detail</key>
+			<string>It is an Axe</string>
+		</dict>
+		<dict>
+			<key>CommodityIdentifier</key>
+			<string>pirate.magnet</string>
+			<key>DefaultAmount</key>
+			<string>3</string>
+			<key>DefaultPrice</key>
+			<string>600</string>
+			<key>Title</key>
+			<string>Magnet</string>
+			<key>Detail</key>
+			<string>It is a magnet</string>
+		</dict>
+		<dict>
+			<key>CommodityIdentifier</key>
+			<string>pirate.holy_light</string>
+			<key>DefaultAmount</key>
+			<string>3</string>
+			<key>DefaultPrice</key>
+			<string>400</string>
+			<key>Title</key>
+			<string>Holy Light</string>
+			<key>Detail</key>
+			<string>it is a Holy Light</string>
+		</dict>
+		<dict>
+			<key>CommodityIdentifier</key>
+			<string>pirate.more_card</string>
+			<key>DefaultAmount</key>
+			<string>3</string>
+			<key>DefaultPrice</key>
+			<string>200</string>
+			<key>Title</key>
+			<string>More Card</string>
+			<key>Detail</key>
+			<string>It is a More Card</string>
+		</dict>
+	</array>
+	<key>kVZIdentifyLeaderboards</key>
+	<array/>
+	<key>kVZIdentifyArchievements</key>
+	<array/>
+	<key>kVZIdentifyIAdBannerID</key>
+	<string></string>
+	<key>kVZIdentifyIAdInterstitalID</key>
+	<string></string>
+	<key>kVZIdentifyAdmobBannerID</key>
+	<string></string>
+	<key>kVZIdentifyAdmobInterstitalID</key>
+	<string></string>
+	<key>kVZIdentifyChartboostAppID</key>
+	<string>55028f3b04b01650ddd601c4</string>
+	<key>kVZIdentifyChartboostAppSignature</key>
+	<string>4ef9e79702630190a3f1f2088d7075f51fdab206</string>
+	<key>kVZIdentifyMoreGameLink</key>
+	<string></string>
+	<key>kVZIdentifyShareContent</key>
+	<string></string>
+	<key>kVZIdentifyDownloadLink</key>
+	<string></string>
+</dict>
+</plist>
